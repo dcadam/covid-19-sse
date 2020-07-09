@@ -1,0 +1,1039 @@
+case.no,onset.date,confirm.date,epi.date,quarantine,symptomatic,cluster.category,cluster.id,cluster.setting.1,cluster.setting.2,cluster.setting.3,secondary.generation.1,secondary.generation.2,tertiary.generation.1,quaternary.generation.1,source
+YB550,21/1/20,23/1/20,21/1/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202001/22/P2020012200924.htm
+AE233,18/1/20,23/1/20,18/1/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202001/23/P2020012300029.htm
+AN376,21/1/20,26/1/20,21/1/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202001/27/P2020012700048.htm
+XQ307,21/1/20,26/1/20,21/1/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202001/27/P2020012700048.htm
+ZY778,23/1/20,4/2/20,23/1/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/05/P2020020400730.htm
+PJ791,28/1/20,4/2/20,28/1/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/05/P2020020400730.htm
+PF445,26/1/20,6/2/20,26/1/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/06/P2020020600703.htm
+GW829,28/1/20,6/2/20,28/1/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/06/P2020020600703.htm
+DN895,3/2/20,7/2/20,3/2/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/07/P2020020700760.htm
+TU929,30/1/20,9/2/20,30/1/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm
+ST823,2/2/20,11/2/20,2/2/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+MC273,5/2/20,11/2/20,5/2/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+JR901,2/2/20,14/2/20,2/2/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/14/P2020021400711.htm
+MM493,12/2/20,14/2/20,12/2/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/14/P2020021400711.htm
+HT754,10/2/20,20/2/20,10/2/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/20/P2020022000773.htm
+HC449,8/2/20,20/2/20,8/2/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/20/P2020022000773.htm
+RR828,18/2/20,20/2/20,18/2/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/20/P2020022000773.htm
+YH707,19/2/20,23/2/20,19/2/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/24/P2020022400753.htm
+CH380,NA,7/3/20,7/3/20,Y,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/07/P2020030700763.htm
+PD437,6/3/20,11/3/20,6/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/11/P2020031100753.htm
+WG336,8/3/20,12/3/20,8/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/12/P2020031200790.htm
+ST134,10/3/20,13/3/20,10/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/13/P2020031300840.htm
+UI597,8/3/20,13/3/20,8/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/13/P2020031300840.htm
+EI528,7/3/20,13/3/20,7/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/13/P2020031300840.htm
+YA290,12/3/20,14/3/20,12/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/15/P2020031400856.htm
+TA350,12/3/20,14/3/20,12/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/15/P2020031400856.htm
+FJ711,11/3/20,15/3/20,11/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/15/P2020031500734.htm
+NR738,13/3/20,15/3/20,13/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/15/P2020031500734.htm
+BZ970,10/3/20,15/3/20,10/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/15/P2020031500734.htm
+SS885,14/3/20,15/3/20,14/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/15/P2020031500734.htm
+CC336,13/3/20,16/3/20,13/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/16/P2020031600812.htm
+HH328,8/3/20,16/3/20,8/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/16/P2020031600812.htm
+FJ681,15/3/20,16/3/20,15/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/16/P2020031600812.htm
+JE953,9/3/20,16/3/20,9/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/16/P2020031600812.htm
+HA303,9/3/20,17/3/20,9/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/18/P2020031700785.htm
+ZK512,10/3/20,17/3/20,10/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/18/P2020031700785.htm
+CK436,10/3/20,17/3/20,10/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/18/P2020031700785.htm
+FD287,10/3/20,17/3/20,10/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/18/P2020031700785.htm
+DG418,9/3/20,17/3/20,9/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/18/P2020031700785.htm
+JO160,14/3/20,18/3/20,14/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+SH487,17/3/20,18/3/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+VH458,17/3/20,18/3/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+XC853,16/3/20,18/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+GZ333,16/3/20,18/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+XQ188,12/3/20,18/3/20,12/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+KK109,12/3/20,18/3/20,12/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+PP107,12/3/20,18/3/20,12/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+VA805,2/3/20,18/3/20,2/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+MV546,17/3/20,18/3/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+QL236,11/3/20,18/3/20,11/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+IE235,15/3/20,19/3/20,15/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900706.htm
+HN728,13/3/20,19/3/20,13/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900706.htm
+UE193,10/3/20,19/3/20,10/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900706.htm
+UH249,16/3/20,19/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900706.htm
+TF168,16/3/20,19/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900706.htm
+GU907,18/3/20,19/3/20,18/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900706.htm
+DK568,14/3/20,19/3/20,14/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900706.htm
+MY397,18/3/20,19/3/20,18/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900706.htm
+NI861,13/3/20,19/3/20,13/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900706.htm
+PX399,12/3/20,19/3/20,12/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900706.htm
+TM719,12/3/20,20/3/20,12/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+FI460,16/3/20,20/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+YF847,12/3/20,20/3/20,12/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+TH531,16/3/20,20/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+MF749,11/3/20,20/3/20,11/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+WK416,9/3/20,20/3/20,9/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+TM805,17/3/20,20/3/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+AU746,19/3/20,20/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+JS819,19/3/20,20/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+RT842,18/3/20,20/3/20,18/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+TP359,17/3/20,20/3/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+QK515,17/3/20,20/3/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+SS905,18/3/20,20/3/20,18/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+ZN572,9/3/20,20/3/20,9/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+GH234,11/3/20,20/3/20,11/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+FN386,19/3/20,20/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+UP345,9/3/20,20/3/20,9/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+WV380,16/3/20,20/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+BR225,14/3/20,20/3/20,14/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+ME104,19/3/20,20/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+ED195,16/3/20,20/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+PJ815,18/3/20,20/3/20,18/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+AK585,19/3/20,20/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+LA893,18/3/20,20/3/20,18/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+GF185,15/3/20,21/3/20,15/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/21/P2020032100701.htm
+MK443,NA,21/3/20,21/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/21/P2020032100701.htm
+XM182,13/3/20,21/3/20,13/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/21/P2020032100701.htm
+TY857,19/3/20,21/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/21/P2020032100701.htm
+AB553,17/3/20,21/3/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/21/P2020032100701.htm
+PN509,18/3/20,21/3/20,18/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/21/P2020032100701.htm
+ZL627,6/3/20,21/3/20,6/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/21/P2020032100701.htm
+RS294,18/3/20,21/3/20,18/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/21/P2020032100701.htm
+VC702,18/3/20,22/3/20,18/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+JK878,16/3/20,22/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+GL265,16/3/20,22/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+EO298,19/3/20,22/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+FZ552,17/3/20,22/3/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+RY885,16/3/20,22/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+PY835,NA,22/3/20,22/3/20,Y,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+MR776,14/3/20,22/3/20,14/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+TT804,16/3/20,22/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+DP807,19/3/20,22/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+QR301,19/3/20,22/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+HS451,19/3/20,22/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+TT494,3/3/20,22/3/20,3/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+PP370,12/3/20,22/3/20,12/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+BF824,14/3/20,22/3/20,14/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+IL739,15/3/20,22/3/20,15/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+VW171,17/3/20,22/3/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+ES860,19/3/20,22/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+KK547,15/3/20,22/3/20,15/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+WN869,18/3/20,22/3/20,18/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+OV458,16/3/20,22/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+YO613,16/3/20,22/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+TB703,16/3/20,22/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+KD213,20/3/20,23/3/20,20/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+AW468,20/3/20,23/3/20,20/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+VC293,21/3/20,23/3/20,21/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+BS695,16/3/20,23/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+CE715,17/3/20,23/3/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+PC916,19/3/20,23/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+VK365,NA,23/3/20,23/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+VO748,20/3/20,23/3/20,20/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+YI698,19/3/20,23/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+ZY948,19/3/20,23/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+MI358,13/3/20,23/3/20,13/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+NM268,11/3/20,23/3/20,11/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+KA348,20/3/20,23/3/20,20/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+GO229,20/3/20,23/3/20,20/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+ZR718,21/3/20,23/3/20,21/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+YX531,19/3/20,23/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+LN771,21/3/20,23/3/20,21/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+AN505,21/3/20,23/3/20,21/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+EU702,22/3/20,24/3/20,22/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+ER988,16/3/20,24/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+NJ614,14/3/20,24/3/20,14/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+EQ767,11/3/20,24/3/20,11/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+EI953,NA,24/3/20,24/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+GG506,19/3/20,24/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+BJ982,15/3/20,24/3/20,15/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+KT145,19/3/20,24/3/20,19/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+CU939,20/3/20,24/3/20,20/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+CN468,18/3/20,24/3/20,18/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+EB823,18/3/20,24/3/20,18/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+PZ392,2/3/20,24/3/20,2/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+IG664,22/3/20,24/3/20,22/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+MD486,17/3/20,24/3/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+XT416,22/3/20,25/3/20,22/3/20,N,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+HX939,22/3/20,25/3/20,22/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+MT342,20/3/20,25/3/20,20/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+LB838,12/3/20,25/3/20,12/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+AT190,22/3/20,25/3/20,22/3/20,N,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+CF862,9/3/20,25/3/20,9/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+UZ837,13/3/20,25/3/20,13/3/20,N,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+LZ192,20/3/20,25/3/20,20/3/20,N,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+NG824,24/3/20,25/3/20,24/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+PA851,16/3/20,25/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+IC931,20/3/20,26/3/20,20/3/20,N,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+JL461,22/3/20,26/3/20,22/3/20,N,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+WW288,NA,26/3/20,26/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+OE965,21/3/20,26/3/20,21/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+GQ812,25/3/20,26/3/20,25/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+BB571,18/3/20,26/3/20,18/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+SV322,22/3/20,26/3/20,22/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+PR199,24/3/20,26/3/20,24/3/20,N,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+BM124,24/3/20,26/3/20,24/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+CX958,21/3/20,26/3/20,21/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+NI965,22/3/20,26/3/20,22/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+SV589,23/3/20,26/3/20,23/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+VX713,13/3/20,26/3/20,13/3/20,N,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+RI111,18/3/20,26/3/20,18/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+WJ460,20/3/20,26/3/20,20/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+ZQ476,24/3/20,26/3/20,24/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+KX536,17/3/20,26/3/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+KR430,17/3/20,26/3/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+GW293,23/3/20,26/3/20,23/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+RP438,23/3/20,26/3/20,23/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+FC122,19/3/20,26/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+JG994,14/3/20,26/3/20,14/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+FW154,20/3/20,26/3/20,20/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+HS224,15/3/20,27/3/20,15/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+VD378,19/3/20,27/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+HF604,19/3/20,27/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+KT594,23/3/20,27/3/20,23/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+PO599,26/3/20,27/3/20,26/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+GJ471,NA,27/3/20,27/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+BG441,21/3/20,27/3/20,21/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+LY757,24/3/20,27/3/20,24/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+WP830,14/3/20,27/3/20,14/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+UP103,25/3/20,27/3/20,25/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+OV206,21/3/20,27/3/20,21/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+EM565,13/3/20,27/3/20,13/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+DV532,21/3/20,27/3/20,21/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+UF854,20/3/20,27/3/20,20/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+DC678,22/3/20,27/3/20,22/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+KP182,NA,27/3/20,27/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+RG797,NA,27/3/20,27/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+DV435,26/3/20,27/3/20,26/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+JC457,24/3/20,27/3/20,24/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+XZ162,NA,27/3/20,27/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+IN879,NA,27/3/20,27/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+RJ928,NA,27/3/20,27/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+LK433,12/3/20,27/3/20,12/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+TG839,19/3/20,27/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+RQ907,23/3/20,27/3/20,23/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+HK107,13/3/20,27/3/20,13/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+GV548,19/3/20,28/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+GU370,22/3/20,28/3/20,22/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+WY239,20/3/20,28/3/20,20/3/20,N,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+ZF606,19/3/20,28/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+EG324,15/3/20,28/3/20,15/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+XZ391,NA,28/3/20,28/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+FU964,NA,28/3/20,28/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+CQ794,NA,28/3/20,28/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+AG156,26/3/20,28/3/20,26/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+DC278,10/3/20,28/3/20,10/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+UH855,NA,28/3/20,28/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+FK897,NA,28/3/20,28/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+FL964,NA,28/3/20,28/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+NW228,NA,28/3/20,28/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+PA149,NA,28/3/20,28/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+HU734,NA,28/3/20,28/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+WH678,NA,28/3/20,28/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+VH463,NA,28/3/20,28/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+RR393,27/3/20,28/3/20,27/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+FU674,27/3/20,28/3/20,27/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+LT884,NA,28/3/20,28/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+XN330,16/3/20,28/3/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+QN574,17/3/20,28/3/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+GF553,23/3/20,28/3/20,23/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+FW608,15/3/20,28/3/20,15/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+SC863,25/3/20,28/3/20,25/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+YX328,26/3/20,28/3/20,26/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+HS319,23/3/20,28/3/20,23/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+NQ560,24/3/20,28/3/20,24/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+QP640,25/3/20,28/3/20,25/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+ZK404,26/3/20,28/3/20,26/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+DP132,15/3/20,28/3/20,15/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+MS775,26/3/20,28/3/20,26/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+PQ770,21/3/20,28/3/20,21/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+XK943,25/3/20,28/3/20,25/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+ZD267,27/3/20,28/3/20,27/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+SY288,19/3/20,29/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+XX387,23/3/20,29/3/20,23/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+KV624,21/3/20,29/3/20,21/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+NI463,NA,29/3/20,29/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+PK671,NA,29/3/20,29/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+FL891,NA,29/3/20,29/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+VD801,NA,29/3/20,29/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+UU702,NA,29/3/20,29/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+DS868,24/3/20,29/3/20,24/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+RI982,19/3/20,29/3/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+AA822,NA,29/3/20,29/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+CA399,23/3/20,29/3/20,23/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+LA381,NA,29/3/20,29/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+NM121,25/3/20,29/3/20,25/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+UC853,22/3/20,29/3/20,22/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+CU823,27/3/20,29/3/20,27/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+AL811,NA,29/3/20,29/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+FI292,NA,29/3/20,29/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+UJ911,21/3/20,29/3/20,21/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+OQ225,23/3/20,29/3/20,23/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+YE821,24/3/20,29/3/20,24/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+GY982,24/3/20,29/3/20,24/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+FS588,24/3/20,29/3/20,24/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+BT155,25/3/20,29/3/20,25/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+XZ536,25/3/20,29/3/20,25/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+WC638,27/3/20,29/3/20,27/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+KT721,21/3/20,29/3/20,21/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+QX228,28/3/20,29/3/20,28/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+OM437,24/3/20,29/3/20,24/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+WE426,22/3/20,29/3/20,22/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+JE584,17/3/20,29/3/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+UQ463,21/3/20,30/3/20,21/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+ZF180,14/3/20,30/3/20,14/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+KO781,27/3/20,30/3/20,27/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+UD973,NA,30/3/20,30/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+RQ120,24/3/20,30/3/20,24/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+PP682,28/3/20,30/3/20,28/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+UV179,27/3/20,30/3/20,27/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+IA407,NA,30/3/20,30/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+QI205,24/3/20,30/3/20,24/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+WH269,NA,30/3/20,30/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+EW485,NA,30/3/20,30/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+TR154,15/3/20,30/3/20,15/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+XU422,NA,30/3/20,30/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+BK918,29/3/20,30/3/20,29/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+QD998,NA,30/3/20,30/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+KG500,NA,30/3/20,30/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+FX876,NA,30/3/20,30/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+AL775,NA,30/3/20,30/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+NK791,NA,30/3/20,30/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+FK545,29/3/20,30/3/20,29/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+ZH675,21/3/20,30/3/20,21/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+RQ406,18/3/20,30/3/20,18/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+MF314,27/3/20,30/3/20,27/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+QX102,14/3/20,31/3/20,14/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+EY457,NA,31/3/20,31/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+OM731,22/3/20,31/3/20,22/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+BX243,28/3/20,31/3/20,28/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+ND850,29/3/20,31/3/20,29/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+LD345,27/3/20,31/3/20,27/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+PM295,NA,31/3/20,31/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+CI596,NA,31/3/20,31/3/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+QY323,17/3/20,31/3/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+KX728,27/3/20,31/3/20,27/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+ZD191,29/3/20,31/3/20,29/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+CU907,18/3/20,1/4/20,18/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+DX626,23/3/20,1/4/20,23/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+VS611,25/3/20,1/4/20,25/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+SB715,12/3/20,1/4/20,12/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+UC526,26/3/20,1/4/20,26/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+WI516,NA,1/4/20,1/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+HW566,26/3/20,1/4/20,26/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+NY598,NA,1/4/20,1/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+IX166,24/2/20,1/4/20,24/2/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+AW293,13/3/20,1/4/20,13/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+OW625,19/3/20,1/4/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+BI596,NA,1/4/20,1/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+KE375,31/3/20,1/4/20,31/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+WY645,24/3/20,1/4/20,24/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+OW707,NA,1/4/20,1/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+DG341,NA,1/4/20,1/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+OV766,31/3/20,1/4/20,31/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+CA823,10/3/20,1/4/20,10/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+GL203,NA,1/4/20,1/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+WU945,27/3/20,1/4/20,27/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+PZ273,24/3/20,1/4/20,24/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+UD827,23/3/20,1/4/20,23/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+OQ397,20/3/20,1/4/20,20/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+HG545,16/3/20,1/4/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+IA356,28/3/20,1/4/20,28/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+YG303,29/3/20,1/4/20,29/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+CN154,23/3/20,1/4/20,23/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+HE492,27/3/20,1/4/20,27/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+YN139,28/3/20,1/4/20,28/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+OG793,29/3/20,1/4/20,29/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+VN444,23/3/20,1/4/20,23/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+JC931,12/3/20,1/4/20,12/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+BA431,23/3/20,2/4/20,23/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+MI793,25/3/20,2/4/20,25/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+OU271,26/3/20,2/4/20,26/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+HC562,27/3/20,2/4/20,27/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+UR968,NA,2/4/20,2/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+OI522,25/3/20,2/4/20,25/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+DU292,24/3/20,2/4/20,24/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+YP462,31/3/20,2/4/20,31/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+RZ815,1/4/20,2/4/20,1/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+PB947,NA,2/4/20,2/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+TS944,NA,2/4/20,2/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+QE631,31/3/20,2/4/20,31/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+NA293,NA,2/4/20,2/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+SF792,9/3/20,2/4/20,9/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+WZ356,NA,2/4/20,2/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+QV103,29/3/20,2/4/20,29/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+BV383,31/3/20,2/4/20,31/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+PZ544,NA,2/4/20,2/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+KO615,29/3/20,2/4/20,29/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+JG981,NA,2/4/20,2/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+LD920,29/3/20,2/4/20,29/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+YT124,25/3/20,2/4/20,25/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+YJ340,1/4/20,2/4/20,1/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+EX976,24/3/20,2/4/20,24/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+VW142,24/3/20,2/4/20,24/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+TY858,NA,3/4/20,3/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+CN778,25/3/20,3/4/20,25/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+DD985,28/3/20,3/4/20,28/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+IJ296,NA,3/4/20,3/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+UK997,31/3/20,3/4/20,31/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+BD384,NA,3/4/20,3/4/20,NA,asymptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+JE430,NA,3/4/20,3/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+CD179,NA,3/4/20,3/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+PF398,31/3/20,3/4/20,31/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+BG272,NA,3/4/20,3/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+KO572,NA,3/4/20,3/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+HL969,NA,3/4/20,3/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+DI908,18/3/20,3/4/20,18/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+NS788,26/3/20,3/4/20,26/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+CL785,16/3/20,3/4/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+WT166,31/3/20,3/4/20,31/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+OP789,NA,3/4/20,3/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+KJ553,19/3/20,3/4/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+VA278,23/3/20,3/4/20,23/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+RN484,NA,3/4/20,3/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+KC179,21/3/20,3/4/20,21/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+XD619,29/3/20,3/4/20,29/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+RU440,1/4/20,3/4/20,1/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+QF768,18/3/20,3/4/20,18/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+JD820,25/3/20,3/4/20,25/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+TD665,27/3/20,3/4/20,27/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+SH637,31/3/20,3/4/20,31/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+FZ546,NA,4/4/20,4/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/04/P2020040400619.htm
+FS825,22/3/20,4/4/20,22/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/04/P2020040400619.htm
+ZA655,2/4/20,4/4/20,2/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/04/P2020040400619.htm
+SM923,NA,4/4/20,4/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/04/P2020040400619.htm
+EX889,1/4/20,4/4/20,1/4/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/04/P2020040400619.htm
+LF181,25/3/20,4/4/20,25/3/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/04/P2020040400619.htm
+FU806,16/3/20,4/4/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/04/P2020040400619.htm
+GW896,30/3/20,4/4/20,30/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/04/P2020040400619.htm
+GG196,NA,5/4/20,5/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+UN643,23/3/20,5/4/20,23/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+QW202,25/3/20,5/4/20,25/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+KY376,1/4/20,5/4/20,1/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+EO237,15/3/20,5/4/20,15/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+LQ219,NA,5/4/20,5/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+XZ687,3/4/20,5/4/20,3/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+PL580,NA,5/4/20,5/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+DT422,12/3/20,5/4/20,12/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+OX402,21/3/20,5/4/20,21/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+ZH911,28/3/20,5/4/20,28/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+BO505,11/3/20,5/4/20,11/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+OI240,17/3/20,5/4/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+ER984,31/3/20,5/4/20,31/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+IA135,2/4/20,5/4/20,2/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+TE220,16/3/20,5/4/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+JV875,31/3/20,5/4/20,31/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+GG169,4/4/20,6/4/20,4/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+VF288,24/3/20,6/4/20,24/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+EU599,NA,6/4/20,6/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+BV435,31/3/20,6/4/20,31/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+LL467,NA,6/4/20,6/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+NF264,3/4/20,6/4/20,3/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+FO470,NA,6/4/20,6/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+JN780,NA,6/4/20,6/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+BF491,30/3/20,6/4/20,30/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+VD280,3/4/20,6/4/20,3/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+HW282,14/3/20,7/4/20,14/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+AP683,4/4/20,7/4/20,4/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+HU263,NA,7/4/20,7/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+LF752,23/3/20,7/4/20,23/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+RO739,5/4/20,7/4/20,5/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+FJ177,2/4/20,7/4/20,2/4/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+ER360,6/4/20,7/4/20,6/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+YH454,11/3/20,7/4/20,11/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+QO374,4/4/20,7/4/20,4/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+PF484,1/4/20,8/4/20,1/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+TH248,NA,8/4/20,8/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+DX205,31/3/20,8/4/20,31/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+IB998,NA,8/4/20,8/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+UF941,3/4/20,8/4/20,3/4/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+UI316,30/3/20,8/4/20,30/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+UF397,2/4/20,8/4/20,2/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+EH508,NA,8/4/20,8/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+YT531,NA,8/4/20,8/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+EP348,NA,8/4/20,8/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+OB580,30/3/20,8/4/20,30/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+KG516,1/4/20,8/4/20,1/4/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+NH691,8/4/20,9/4/20,8/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/09/P2020040900708.htm
+BF470,25/3/20,9/4/20,25/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/09/P2020040900708.htm
+AH533,29/3/20,9/4/20,29/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/09/P2020040900708.htm
+SA805,14/3/20,9/4/20,14/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/09/P2020040900708.htm
+KO625,25/3/20,9/4/20,25/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/09/P2020040900708.htm
+FX801,4/4/20,9/4/20,4/4/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/09/P2020040900708.htm
+AY808,20/3/20,9/4/20,20/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/09/P2020040900708.htm
+UW551,5/4/20,9/4/20,5/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/09/P2020040900708.htm
+CK323,NA,9/4/20,9/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/09/P2020040900708.htm
+JF960,27/3/20,9/4/20,27/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/09/P2020040900708.htm
+FB892,NA,10/4/20,10/4/20,NA,asymptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/10/P2020041000577.htm
+SC504,17/3/20,10/4/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/10/P2020041000577.htm
+ZM592,NA,10/4/20,10/4/20,NA,asymptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/10/P2020041000577.htm
+JD297,NA,10/4/20,10/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/10/P2020041000577.htm
+QW494,30/3/20,10/4/20,30/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/10/P2020041000577.htm
+BL910,NA,10/4/20,10/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/10/P2020041000577.htm
+QB485,8/4/20,10/4/20,8/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/10/P2020041000577.htm
+LR540,30/3/20,10/4/20,30/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/10/P2020041000577.htm
+MV567,19/3/20,10/4/20,19/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/10/P2020041000577.htm
+ZB733,26/3/20,10/4/20,26/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/10/P2020041000577.htm
+ZQ551,NA,10/4/20,10/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/10/P2020041000577.htm
+XV728,8/4/20,10/4/20,8/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/10/P2020041000577.htm
+IQ781,NA,10/4/20,10/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/10/P2020041000577.htm
+KW508,9/4/20,10/4/20,9/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/10/P2020041000577.htm
+XA693,28/3/20,11/4/20,28/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/11/P2020041100611.htm 
+LA525,NA,11/4/20,11/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/11/P2020041100611.htm 
+SE601,7/4/20,11/4/20,7/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/11/P2020041100611.htm 
+SV783,25/3/20,11/4/20,25/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/11/P2020041100611.htm 
+AD464,NA,11/4/20,11/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/11/P2020041100611.htm 
+GK319,31/3/20,11/4/20,31/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/11/P2020041100611.htm 
+VU400,NA,12/4/20,12/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/12/P2020041200558.htm
+UC585,8/4/20,12/4/20,8/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/12/P2020041200558.htm
+MX258,NA,13/4/20,13/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/13/P2020041300624.htm
+ZJ297,25/3/20,13/4/20,25/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/13/P2020041300624.htm
+QQ413,NA,14/4/20,14/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/14/P2020041400583.htm
+TD643,NA,14/4/20,14/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/14/P2020041400583.htm
+JI892,NA,14/4/20,14/4/20,NA,asymptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/14/P2020041400583.htm
+GA927,NA,15/4/20,15/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/15/P2020041500563.htm
+TK713,NA,15/4/20,15/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/15/P2020041500563.htm
+OP678,17/3/20,15/4/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/15/P2020041500563.htm
+VF444,NA,15/4/20,15/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/15/P2020041500563.htm
+WI507,13/4/20,16/4/20,13/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/16/P2020041600581.htm
+IA358,NA,17/4/20,17/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/17/P2020041700713.htm
+SX969,2/4/20,17/4/20,2/4/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/17/P2020041700713.htm
+OY143,17/3/20,17/4/20,17/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/17/P2020041700713.htm
+YB314,11/4/20,17/4/20,11/4/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/17/P2020041700713.htm
+WQ455,NA,18/4/20,18/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/18/P2020041800650.htm
+IC903,NA,19/4/20,19/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/19/P2020041900527.htm
+CU869,6/4/20,19/4/20,6/4/20,NA,symptomatic,Sporadic local,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/19/P2020041900527.htm
+VE724,NA,21/4/20,21/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/21/P2020042100562.htm
+OV804,NA,21/4/20,21/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/21/P2020042100562.htm
+AA845,NA,22/4/20,22/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/22/P2020042200608.htm
+NE629,24/3/20,22/4/20,24/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/22/P2020042200608.htm
+FE196,NA,22/4/20,22/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/22/P2020042200608.htm
+HO447,NA,22/4/20,22/4/20,NA,asymptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/22/P2020042200608.htm
+YN429,16/3/20,23/4/20,16/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/23/P2020042300587.htm
+SS456,26/3/20,23/4/20,26/3/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/23/P2020042300587.htm
+EG852,28/1/20,30/1/20,28/1/20,NA,symptomatic,Sporadic imported,0,NA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202001/31/P2020013100015.htm
+ES400,20/1/20,24/1/20,20/1/20,NA,symptomatic,Cluster of imported cases,1,Cluster_fam_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202001/24/P2020012400882.htm
+OC264,25/1/20,26/1/20,25/1/20,Y,symptomatic,Cluster of imported cases,1,Cluster_fam_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202001/27/P2020012700048.htm
+IG290,30/1/20,10/2/20,30/1/20,NA,symptomatic,Cluster initiated by local case,2,Cluster_fam_07,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/10/P2020021000753.htm
+GP180,30/1/20,10/2/20,30/1/20,NA,symptomatic,Cluster initiated by local case,2,Cluster_fam_07,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/10/P2020021000753.htm
+HA634,28/1/20,10/2/20,28/1/20,NA,symptomatic,Cluster initiated by local case,2,Cluster_fam_07,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/10/P2020021000753.htm
+NV854,23/3/20,29/3/20,23/3/20,NA,symptomatic,Cluster of imported cases,3,Cluster_fam_Moracco,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+KE750,23/3/20,29/3/20,23/3/20,NA,symptomatic,Cluster of imported cases,3,Cluster_fam_Moracco,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+KM745,25/3/20,29/3/20,25/3/20,NA,symptomatic,Cluster initiated by imported case,4,Cluster_fam_54,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+XV777,NA,1/4/20,1/4/20,NA,asymptomatic,Cluster initiated by imported case,4,Cluster_fam_54,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+KA669,26/3/20,29/3/20,26/3/20,NA,symptomatic,Cluster of imported cases,5,Cluster_dating_07,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+ZZ732,NA,11/4/20,11/4/20,Y,asymptomatic,Cluster of imported cases,5,Cluster_dating_07,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/11/P2020041100611.htm 
+MD960,27/3/20,29/3/20,27/3/20,NA,symptomatic,Cluster of imported cases,6,Cluster_friends_08_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+LE961,28/3/20,30/3/20,28/3/20,NA,symptomatic,Cluster of imported cases,6,Cluster_friends_08_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+ZR527,30/3/20,3/4/20,30/3/20,Y,symptomatic,Cluster of imported cases,6,Cluster_friends_08_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+WH646,26/3/20,29/3/20,26/3/20,NA,symptomatic,Cluster of imported cases,7,Cluster_fam_69,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+OG820,1/4/20,8/4/20,1/4/20,NA,symptomatic,Cluster of imported cases,7,Cluster_fam_69,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+GT269,NA,30/3/20,30/3/20,NA,asymptomatic,Cluster of imported cases,8,Cluster_fam_43,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+HC995,NA,30/3/20,30/3/20,NA,asymptomatic,Cluster of imported cases,8,Cluster_fam_43,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+XB472,27/3/20,31/3/20,27/3/20,NA,symptomatic,Cluster of imported cases,8,Cluster_fam_43,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+WO767,NA,5/4/20,5/4/20,Y,asymptomatic,Cluster of imported cases,8,Cluster_fam_43,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+CC910,NA,8/4/20,8/4/20,Y,asymptomatic,Cluster of imported cases,8,Cluster_fam_43,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+PI347,23/3/20,30/3/20,23/3/20,NA,symptomatic,Cluster of imported cases,9,Cluster_friends_06_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+ZA885,30/3/20,31/3/20,30/3/20,NA,symptomatic,Cluster of imported cases,9,Cluster_friends_06_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+CY481,28/3/20,25/4/20,28/3/20,NA,symptomatic,Cluster of imported cases,9,Cluster_friends_06_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/25/P2020042500568.htm
+UY252,28/3/20,30/3/20,28/3/20,NA,symptomatic,Cluster initiated by local case,10,Cluster_karaoke,Cluster_fam_47,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+MW141,27/3/20,31/3/20,27/3/20,N,symptomatic,Cluster initiated by local case,10,Cluster_karaoke,Cluster_fam_47,cluster_work_K11,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+WH677,27/3/20,31/3/20,27/3/20,NA,symptomatic,Cluster initiated by local case,10,Cluster_karaoke,NA,cluster_work_K11,Cluster_fam_sec_17,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+OZ181,24/3/20,31/3/20,24/3/20,N,symptomatic,Cluster initiated by local case,10,Cluster_karaoke,NA,cluster_work_K11,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+AR462,27/3/20,31/3/20,27/3/20,NA,symptomatic,Cluster initiated by local case,10,Cluster_karaoke,NA,cluster_work_K11,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+IP573,29/3/20,1/4/20,29/3/20,NA,symptomatic,Cluster initiated by local case,10,NA,NA,NA,Cluster_fam_sec_17,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+XC636,25/3/20,1/4/20,25/3/20,NA,symptomatic,Cluster initiated by local case,10,Cluster_karaoke,NA,cluster_work_K11,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+UC868,27/3/20,1/4/20,27/3/20,NA,symptomatic,Cluster initiated by local case,10,Cluster_karaoke,NA,cluster_work_K11,Cluster_fam_sec_24,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+ZJ935,3/4/20,7/4/20,3/4/20,Y,symptomatic,Cluster initiated by local case,10,NA,NA,NA,Cluster_fam_sec_24,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+EC451,20/3/20,30/3/20,20/3/20,NA,symptomatic,Cluster of imported cases,11,Cluster_fam_44,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+FP646,NA,30/3/20,30/3/20,NA,asymptomatic,Cluster of imported cases,11,Cluster_fam_44,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+JY991,29/3/20,30/3/20,29/3/20,NA,symptomatic,Cluster of imported cases,12,Cluster_travel_26_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+AJ712,29/3/20,3/4/20,29/3/20,Y,symptomatic,Cluster of imported cases,12,Cluster_travel_26_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+JC848,22/1/20,30/1/20,22/1/20,NA,symptomatic,Cluster initiated by local case,13,NA,NA,NA,Cluster_fam_01_HongMei,NA,NA,NA,https://www.info.gov.hk/gia/general/202001/31/P2020013100015.htm
+MP917,3/2/20,10/2/20,3/2/20,NA,symptomatic,Cluster initiated by local case,13,Cluster_fam_08,NA,NA,Cluster_fam_01_HongMei,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/10/P2020021000753.htm
+IS758,3/2/20,11/2/20,3/2/20,NA,symptomatic,Cluster initiated by local case,13,NA,Cluster_meal_02_northpoint,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+YX864,2/2/20,11/2/20,2/2/20,NA,symptomatic,Cluster initiated by local case,13,Cluster_fam_08,Cluster_meal_02_northpoint,NA,Cluster_fam_01_HongMei,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+HZ885,30/1/20,11/2/20,30/1/20,NA,symptomatic,Cluster initiated by local case,13,Cluster_fam_08,Cluster_meal_02_northpoint,NA,Cluster_fam_01_HongMei,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+RT325,31/1/20,13/2/20,31/1/20,NA,symptomatic,Cluster initiated by local case,13,NA,Cluster_meal_02_northpoint,NA,Cluster_fam_sec_01,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/13/P2020021300700.htm
+CR226,8/2/20,13/2/20,8/2/20,NA,symptomatic,Cluster initiated by local case,13,NA,Cluster_meal_02_northpoint,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/13/P2020021300700.htm
+JH885,3/2/20,14/2/20,3/2/20,NA,symptomatic,Cluster initiated by local case,13,NA,Cluster_meal_02_northpoint,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/14/P2020021400711.htm
+OC739,2/2/20,18/2/20,2/2/20,NA,symptomatic,Cluster initiated by local case,13,NA,NA,NA,Cluster_fam_sec_01,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/18/P2020021800659.htm
+BH652,27/3/20,30/3/20,27/3/20,NA,symptomatic,Cluster of imported cases,14,Cluster_Roommate_03,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+DG179,30/3/20,2/4/20,30/3/20,NA,symptomatic,Cluster of imported cases,14,Cluster_Roommate_03,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+BH906,23/3/20,31/3/20,23/3/20,NA,symptomatic,Cluster initiated by imported case,15,Cluster_meal_08,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+UW109,27/3/20,1/4/20,27/3/20,NA,symptomatic,Cluster initiated by imported case,15,Cluster_meal_08,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+SU304,27/3/20,31/3/20,27/3/20,NA,symptomatic,Cluster of imported cases,16,Cluster_friends_03_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+GL544,NA,2/4/20,2/4/20,NA,asymptomatic,Cluster of imported cases,16,Cluster_friends_03_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+CY689,NA,31/3/20,31/3/20,NA,asymptomatic,Cluster of imported cases,17,Cluster_fam_48,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+QT147,NA,31/3/20,31/3/20,NA,asymptomatic,Cluster of imported cases,17,Cluster_fam_48,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+IZ640,28/3/20,31/3/20,28/3/20,NA,symptomatic,Cluster of imported cases,18,Cluster_fam_62,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+EY165,3/4/20,5/4/20,3/4/20,Y,symptomatic,Cluster of imported cases,18,Cluster_fam_62,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+WY248,22/3/20,31/3/20,22/3/20,N,symptomatic,Cluster of imported cases,19,Cluster_fam_50,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+PE625,19/3/20,31/3/20,19/3/20,N,symptomatic,Cluster of imported cases,19,Cluster_fam_50,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+WW192,NA,31/3/20,31/3/20,NA,asymptomatic,Cluster of imported cases,20,Cluster_fam_58,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+XP499,29/3/20,2/4/20,29/3/20,NA,symptomatic,Cluster of imported cases,20,Cluster_fam_58,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+RL361,29/3/20,31/3/20,29/3/20,NA,symptomatic,Cluster of imported cases,21,Cluster_fam_52,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+IH446,31/3/20,1/4/20,31/3/20,NA,symptomatic,Cluster of imported cases,21,Cluster_fam_52,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+AN177,29/3/20,1/4/20,29/3/20,NA,symptomatic,Cluster initiated by local case,22,Cluster_gym_gym45,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+QJ536,31/3/20,2/4/20,31/3/20,NA,symptomatic,Cluster initiated by local case,22,Cluster_gym_gym45,Cluster_fam_61,NA,Cluster_sec_gym45_meeting,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+ZG263,31/3/20,4/4/20,31/3/20,Y,symptomatic,Cluster initiated by local case,22,Cluster_gym_gym45,Cluster_fam_61,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/04/P2020040400619.htm
+WJ381,3/4/20,8/4/20,3/4/20,NA,symptomatic,Cluster initiated by local case,22,NA,NA,NA,Cluster_sec_gym45_meeting,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+FY880,28/3/20,1/4/20,28/3/20,NA,symptomatic,Cluster of imported cases,23,Cluster_fam_51,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+OB950,NA,1/4/20,1/4/20,NA,asymptomatic,Cluster of imported cases,23,Cluster_fam_51,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+QC901,31/1/20,11/2/20,31/1/20,NA,symptomatic,Cluster initiated by local case,24,Cluster_meal_03_domestic,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+PB196,29/1/20,13/2/20,29/1/20,NA,symptomatic,Cluster initiated by local case,24,Cluster_meal_03_domestic,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/13/P2020021300700.htm
+YL113,30/3/20,2/4/20,30/3/20,NA,symptomatic,Cluster of imported cases,25,Cluster_fam_71,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+LY169,1/4/20,11/4/20,1/4/20,Y,symptomatic,Cluster of imported cases,25,Cluster_fam_71,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/11/P2020041100611.htm 
+PE652,NA,3/4/20,3/4/20,NA,asymptomatic,Cluster of imported cases,26,Cluster_friends_09_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+RS661,NA,5/4/20,5/4/20,NA,asymptomatic,Cluster of imported cases,26,Cluster_friends_09_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+AP152,29/3/20,3/4/20,29/3/20,NA,symptomatic,Cluster of imported cases,27,Cluster_fam_59,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+XG878,NA,3/4/20,3/4/20,NA,asymptomatic,Cluster of imported cases,27,Cluster_fam_59,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+ON966,26/3/20,3/4/20,26/3/20,NA,symptomatic,Cluster initiated by local case,28,Cluster_fam_68,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+UX253,4/4/20,8/4/20,4/4/20,Y,symptomatic,Cluster initiated by local case,28,Cluster_fam_68,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+IW959,24/3/20,3/4/20,24/3/20,NA,symptomatic,Cluster initiated by imported case,29,Cluster_fam_67,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+EF898,NA,8/4/20,8/4/20,Y,asymptomatic,Cluster initiated by imported case,29,Cluster_fam_67,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+WU531,27/3/20,3/4/20,27/3/20,NA,symptomatic,Cluster initiated by local case,30,Cluster_fam_63,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+CT231,23/3/20,6/4/20,23/3/20,NA,symptomatic,Cluster initiated by local case,30,Cluster_fam_63,Cluster_karaoke_2,NA,Cluster_sec_work_CWB,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+NO557,3/4/20,7/4/20,3/4/20,NA,symptomatic,Cluster initiated by local case,30,NA,Cluster_karaoke_2,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+UE543,4/4/20,7/4/20,4/4/20,NA,symptomatic,Cluster initiated by local case,30,NA,Cluster_karaoke_2,NA,Cluster_sec_work_CWB,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+LY519,29/3/20,7/4/20,29/3/20,NA,symptomatic,Cluster initiated by local case,30,NA,Cluster_karaoke_2,NA,Cluster_fam_sec_27,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+ID404,NA,8/4/20,8/4/20,NA,asymptomatic,Cluster initiated by local case,30,NA,NA,NA,Cluster_sec_work_CWB,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+YC852,1/4/20,8/4/20,1/4/20,NA,symptomatic,Cluster initiated by local case,30,NA,Cluster_karaoke_2,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+ML216,30/3/20,8/4/20,30/3/20,NA,symptomatic,Cluster initiated by local case,30,NA,NA,NA,Cluster_fam_sec_27,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+QQ131,7/4/20,8/4/20,7/4/20,NA,symptomatic,Cluster initiated by local case,30,NA,NA,NA,Cluster_fam_sec_27,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+XE543,2/4/20,3/4/20,2/4/20,NA,symptomatic,Cluster of imported cases,31,Cluster_travel_27_Canada,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+XN245,31/3/20,5/4/20,31/3/20,Y,symptomatic,Cluster of imported cases,31,Cluster_travel_27_Canada,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+WG810,2/4/20,3/4/20,2/4/20,NA,symptomatic,Cluster of imported cases,32,Cluster_fam_72,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+VE523,31/3/20,11/4/20,31/3/20,Y,symptomatic,Cluster of imported cases,32,Cluster_fam_72,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/11/P2020041100611.htm 
+FM714,1/4/20,6/4/20,1/4/20,NA,symptomatic,Cluster of imported cases,33,Cluster_travel_30_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+QH587,NA,8/4/20,8/4/20,NA,asymptomatic,Cluster of imported cases,33,Cluster_travel_30_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+FY778,28/3/20,6/4/20,28/3/20,Y,symptomatic,Cluster initiated by imported case,34,Cluster_partner_02,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+ZZ198,1/4/20,12/4/20,1/4/20,Y,symptomatic,Cluster initiated by imported case,34,Cluster_partner_02,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/12/P2020041200558.htm
+SY772,7/2/20,16/2/20,7/2/20,NA,symptomatic,Cluster initiated by imported case,35,Cluster_meal_04_domestic,NA,NA,Cluster_work_01_sec,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/16/P2020021600663.htm
+HB571,12/2/20,17/2/20,12/2/20,NA,symptomatic,Cluster initiated by imported case,35,NA,NA,NA,Cluster_work_01_sec,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/17/P2020021700654.htm
+YS610,8/2/20,17/2/20,8/2/20,NA,symptomatic,Cluster initiated by imported case,35,Cluster_meal_04_domestic,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/17/P2020021700654.htm
+GH467,14/2/20,19/2/20,14/2/20,NA,symptomatic,Cluster initiated by imported case,35,Cluster_meal_04_domestic,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/19/P2020021900676.htm
+QS379,25/1/20,20/2/20,25/1/20,NA,symptomatic,Cluster initiated by imported case,35,Cluster_meal_04_domestic,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/20/P2020022000773.htm
+UJ327,NA,6/4/20,6/4/20,NA,asymptomatic,Cluster of imported cases,36,Cluster_travel_28_peru1,Cluster_fam_64,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+RM410,NA,6/4/20,6/4/20,NA,asymptomatic,Cluster of imported cases,36,Cluster_travel_28_peru1,Cluster_fam_64,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+OF762,NA,6/4/20,6/4/20,NA,asymptomatic,Cluster of imported cases,36,Cluster_travel_28_peru1,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+PQ506,27/3/20,6/4/20,27/3/20,NA,symptomatic,Cluster of imported cases,37,Cluster_travel_29_peru2_dating,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+NK859,23/3/20,6/4/20,23/3/20,NA,symptomatic,Cluster of imported cases,37,Cluster_travel_29_peru2_dating,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+KM613,NA,7/4/20,7/4/20,NA,asymptomatic,Cluster of imported cases,38,Cluster_flatmate_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+RY334,NA,7/4/20,7/4/20,NA,asymptomatic,Cluster of imported cases,38,Cluster_flatmate_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+XW618,31/3/20,7/4/20,31/3/20,NA,symptomatic,Cluster of imported cases,39,Cluster_fam_70,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+GE710,10/3/20,9/4/20,10/3/20,NA,symptomatic,Cluster of imported cases,39,Cluster_fam_70,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/09/P2020040900708.htm
+QA553,4/4/20,8/4/20,4/4/20,NA,symptomatic,Cluster of imported cases,40,Cluster_fam_73,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+NJ513,8/4/20,12/4/20,8/4/20,Y,symptomatic,Cluster of imported cases,40,Cluster_fam_73,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/12/P2020041200558.htm
+IE219,2/4/20,10/4/20,2/4/20,NA,symptomatic,Cluster of imported cases,41,Cluster_fam_74,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/10/P2020041000577.htm
+CH435,29/3/20,13/4/20,29/3/20,NA,symptomatic,Cluster of imported cases,41,Cluster_fam_74,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/13/P2020041300624.htm
+IT343,NA,13/4/20,13/4/20,Y,asymptomatic,Cluster initiated by imported case,42,Cluster_fam_75,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/13/P2020041300624.htm
+ZP938,NA,25/4/20,25/4/20,Y,asymptomatic,Cluster initiated by imported case,42,Cluster_fam_75,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/25/P2020042500568.htm
+RR998,NA,11/4/20,11/4/20,NA,asymptomatic,Cluster of imported cases,43,Cluster_fam_77,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/11/P2020041100611.htm 
+VM160,16/4/20,18/4/20,16/4/20,Y,symptomatic,Cluster of imported cases,43,Cluster_fam_77,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/18/P2020041800650.htm
+JW970,15/4/20,21/4/20,15/4/20,NA,symptomatic,Cluster of imported cases,44,Cluster_travel_31_USA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/21/P2020042100562.htm
+OS970,7/4/20,21/4/20,7/4/20,NA,symptomatic,Cluster of imported cases,44,Cluster_travel_31_USA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/21/P2020042100562.htm
+ZU277,8/2/20,17/2/20,8/2/20,NA,symptomatic,Cluster initiated by local case,45,Cluster_fam_11,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/17/P2020021700654.htm
+TY704,8/3/20,11/3/20,8/3/20,Y,symptomatic,Cluster initiated by local case,45,Cluster_fam_11,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/11/P2020031100753.htm
+OJ809,12/2/20,19/2/20,12/2/20,NA,symptomatic,Cluster initiated by local case,46,NA,NA,NA,Cluster_fam_sec_07,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/19/P2020021900676.htm
+SE116,12/2/20,19/2/20,12/2/20,NA,symptomatic,Cluster initiated by local case,46,Cluster_worship_01,NA,NA,Cluster_fam_sec_07,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/19/P2020021900676.htm
+JA471,13/2/20,22/2/20,13/2/20,NA,symptomatic,Cluster initiated by local case,46,Cluster_worship_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/22/P2020022200737.htm
+LC134,8/2/20,23/2/20,8/2/20,NA,symptomatic,Cluster initiated by local case,46,Cluster_worship_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/23/P2020022300733.htm
+CB351,13/2/20,23/2/20,13/2/20,NA,symptomatic,Cluster initiated by local case,46,Cluster_worship_01,NA,NA,Cluster_fam__sec_03,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/23/P2020022300733.htm
+VD234,8/2/20,24/2/20,8/2/20,NA,symptomatic,Cluster initiated by local case,46,Cluster_worship_01,NA,NA,Cluster_fam__sec_04,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/24/P2020022400753.htm
+PW255,19/2/20,24/2/20,19/2/20,NA,symptomatic,Cluster initiated by local case,46,Cluster_worship_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/24/P2020022400753.htm
+FI685,17/2/20,25/2/20,17/2/20,NA,symptomatic,Cluster initiated by local case,46,Cluster_worship_01,NA,NA,Cluster_fam__sec_02,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/25/P2020022500769.htm
+JD955,NA,25/2/20,25/2/20,NA,asymptomatic,Cluster initiated by local case,46,NA,NA,NA,Cluster_fam__sec_02,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/25/P2020022500769.htm
+KM436,18/2/20,26/2/20,18/2/20,NA,symptomatic,Cluster initiated by local case,46,Cluster_worship_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/26/P2020022600842.htm
+NK361,25/2/20,26/2/20,25/2/20,NA,symptomatic,Cluster initiated by local case,46,NA,NA,NA,Cluster_fam__sec_03,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/26/P2020022600842.htm
+CD925,20/2/20,26/2/20,20/2/20,NA,symptomatic,Cluster initiated by local case,46,NA,NA,NA,Cluster_fam__sec_04,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/26/P2020022600842.htm
+XP609,13/2/20,27/2/20,13/2/20,NA,symptomatic,Cluster initiated by local case,46,Cluster_worship_01,NA,NA,Cluster_fam_sec_05,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/27/P2020022700782.htm
+UD389,25/2/20,27/2/20,25/2/20,NA,symptomatic,Cluster initiated by local case,46,Cluster_worship_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/27/P2020022700782.htm
+OE677,29/2/20,29/2/20,29/2/20,Y,symptomatic,Cluster initiated by local case,46,NA,NA,NA,Cluster_fam_sec_05,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/29/P2020022900786.htm
+GR937,12/2/20,1/3/20,12/2/20,NA,symptomatic,Cluster initiated by local case,46,Cluster_worship_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/01/P2020030100724.htm
+OR312,NA,4/3/20,4/3/20,Y,asymptomatic,Cluster initiated by local case,46,Cluster_worship_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/04/P2020030400780.htm
+GG121,NA,4/3/20,4/3/20,Y,asymptomatic,Cluster initiated by local case,46,NA,NA,NA,Cluster_fam__sec_04,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/04/P2020030400780.htm
+OD818,NA,8/3/20,8/3/20,Y,asymptomatic,Cluster initiated by local case,46,NA,NA,NA,Cluster_fam__sec_02,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/08/P2020030800776.htm
+DO502,10/2/20,23/2/20,10/2/20,NA,symptomatic,Cluster initiated by local case,47,Cluster_fam_12,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/23/P2020022300733.htm
+AZ415,20/2/20,25/2/20,20/2/20,NA,symptomatic,Cluster initiated by local case,47,Cluster_fam_12,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/25/P2020022500769.htm
+LI717,12/2/20,25/2/20,12/2/20,NA,symptomatic,Cluster initiated by local case,48,Cluster_fam_13,Cluster_meal_05_banquet,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/25/P2020022500769.htm
+GI237,16/2/20,26/2/20,16/2/20,NA,symptomatic,Cluster initiated by local case,48,Cluster_fam_13,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/26/P2020022600842.htm
+MT734,NA,2/3/20,2/3/20,Y,asymptomatic,Cluster initiated by local case,48,Cluster_fam_16,Cluster_meal_05_banquet,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/02/P2020030200744.htm
+SU254,NA,4/3/20,4/3/20,Y,asymptomatic,Cluster initiated by local case,48,Cluster_fam_16,Cluster_meal_05_banquet,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/04/P2020030400780.htm
+BS479,NA,8/3/20,8/3/20,Y,asymptomatic,Cluster initiated by local case,48,Cluster_fam_13,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/08/P2020030800776.htm
+NQ103,28/2/20,1/3/20,28/2/20,NA,symptomatic,Cluster initiated by local case,49,Cluster_fam_15,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/01/P2020030100724.htm
+LF637,28/2/20,1/3/20,28/2/20,NA,symptomatic,Cluster initiated by local case,49,Cluster_fam_15,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/01/P2020030100724.htm
+TO761,23/2/20,4/3/20,23/2/20,NA,symptomatic,Cluster initiated by imported case,50,Cluster_travel_01_india,NA,NA,Cluster_fam_sec_08,Cluster_fam_Canada case,NA,NA,https://www.info.gov.hk/gia/general/202003/04/P2020030400780.htm
+MF760,NA,6/3/20,6/3/20,Y,asymptomatic,Cluster initiated by imported case,50,NA,NA,NA,Cluster_fam_sec_08,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/06/P2020030600782.htm
+RP349,9/3/20,10/3/20,9/3/20,Y,symptomatic,Cluster initiated by imported case,50,NA,NA,NA,NA,Cluster_fam_Canada case,NA,NA,https://www.info.gov.hk/gia/general/202003/10/P2020031000782.htm
+YN141,4/3/20,10/3/20,4/3/20,Y,symptomatic,Cluster initiated by imported case,50,NA,NA,NA,NA,Cluster_fam_Canada case,NA,NA,https://www.info.gov.hk/gia/general/202003/10/P2020031000782.htm
+PP657,28/2/20,6/3/20,28/2/20,NA,symptomatic,Cluster of imported cases,51,Cluster_travel_01_india,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/06/P2020030600782.htm
+OK501,NA,7/3/20,7/3/20,NA,asymptomatic,Cluster of imported cases,51,Cluster_travel_01_india,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/07/P2020030700763.htm
+XL155,23/2/20,8/3/20,23/2/20,Y,symptomatic,Cluster of imported cases,51,Cluster_travel_01_india,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/08/P2020030800776.htm
+QT266,NA,8/3/20,8/3/20,Y,asymptomatic,Cluster of imported cases,51,Cluster_travel_01_india,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/08/P2020030800776.htm
+BV368,23/1/20,24/1/20,23/1/20,NA,symptomatic,Cluster of imported cases,52,Cluster_fam_02,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202001/24/P2020012400882.htm
+TB641,23/1/20,24/1/20,23/1/20,NA,symptomatic,Cluster of imported cases,52,Cluster_fam_02,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202001/24/P2020012400882.htm
+XL921,4/3/20,6/3/20,4/3/20,NA,symptomatic,Cluster initiated by imported case,53,Cluster_fam_18,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/06/P2020030600782.htm
+SF241,7/3/20,9/3/20,7/3/20,Y,symptomatic,Cluster initiated by imported case,53,Cluster_fam_18,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/09/P2020030900642.htm
+FB819,6/3/20,8/3/20,6/3/20,NA,symptomatic,Cluster initiated by imported case,54,Cluster_fam_20,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/08/P2020030800776.htm
+PY661,NA,20/3/20,20/3/20,Y,asymptomatic,Cluster initiated by imported case,54,Cluster_fam_20,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+ON148,6/3/20,11/3/20,6/3/20,NA,symptomatic,Cluster initiated by imported case,55,Cluster_travel_02_Egypt,NA,NA,Cluster_fam_02_HengTai,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/11/P2020031100753.htm
+NK138,10/3/20,14/3/20,10/3/20,NA,symptomatic,Cluster initiated by imported case,55,NA,NA,NA,Cluster_fam_02_HengTai,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/15/P2020031400856.htm
+NG231,7/3/20,10/3/20,7/3/20,NA,symptomatic,Cluster of imported cases,56,Cluster_travel_02_Egypt,NA,NA,Cluster_fam_02_HengTai,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/10/P2020031000782.htm
+XP775,7/3/20,10/3/20,7/3/20,NA,symptomatic,Cluster of imported cases,56,Cluster_travel_02_Egypt,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/10/P2020031000782.htm
+VS422,7/3/20,10/3/20,7/3/20,NA,symptomatic,Cluster of imported cases,56,Cluster_travel_02_Egypt,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/10/P2020031000782.htm
+LV994,8/3/20,11/3/20,8/3/20,NA,symptomatic,Cluster of imported cases,56,Cluster_travel_02_Egypt,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/11/P2020031100753.htm
+GJ858,10/3/20,11/3/20,10/3/20,NA,symptomatic,Cluster of imported cases,56,Cluster_travel_02_Egypt,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/11/P2020031100753.htm
+XN922,10/3/20,11/3/20,10/3/20,NA,symptomatic,Cluster of imported cases,56,Cluster_travel_02_Egypt,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/11/P2020031100753.htm
+YG869,10/3/20,11/3/20,10/3/20,NA,symptomatic,Cluster of imported cases,56,Cluster_travel_02_Egypt,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/11/P2020031100753.htm
+SR531,8/3/20,11/3/20,8/3/20,NA,symptomatic,Cluster of imported cases,56,Cluster_travel_02_Egypt,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/11/P2020031100753.htm
+YJ320,3/3/20,11/3/20,3/3/20,NA,symptomatic,Cluster initiated by imported case,57,Cluster_fam_17,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/11/P2020031100753.htm
+WA731,NA,13/3/20,13/3/20,Y,asymptomatic,Cluster initiated by imported case,57,Cluster_fam_17,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/13/P2020031300840.htm
+FV996,3/3/20,12/3/20,3/3/20,NA,symptomatic,Cluster of imported cases,58,Cluster_fam_17,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/12/P2020031200790.htm
+PG476,12/3/20,13/3/20,12/3/20,NA,symptomatic,Cluster of imported cases,58,Cluster_fam_17,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/13/P2020031300840.htm
+GU130,6/3/20,13/3/20,6/3/20,NA,symptomatic,Cluster of imported cases,59,Cluster_travel_03_Morocco,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/13/P2020031300840.htm
+JM503,2/3/20,14/3/20,2/3/20,NA,symptomatic,Cluster of imported cases,59,Cluster_travel_03_Morocco,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/15/P2020031400856.htm
+ST649,11/3/20,15/3/20,11/3/20,NA,symptomatic,Cluster initiated by imported case,60,Cluster_travel_06_Hokkaido,NA,NA,Cluster_work_sec_03,Cluster_fam_sec_10,NA,NA,https://www.info.gov.hk/gia/general/202003/15/P2020031500734.htm
+TQ579,15/3/20,16/3/20,15/3/20,NA,symptomatic,Cluster initiated by imported case,60,NA,NA,NA,Cluster_work_sec_03,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/16/P2020031600812.htm
+GR454,20/3/20,22/3/20,20/3/20,Y,symptomatic,Cluster initiated by imported case,60,NA,NA,NA,NA,Cluster_fam_sec_10,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+QM627,10/3/20,15/3/20,10/3/20,NA,symptomatic,Cluster initiated by imported case,61,Cluster_Travel_04_France,NA,NA,Cluster_fam_sec_28,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/15/P2020031500734.htm
+GE298,NA,27/3/20,27/3/20,Y,asymptomatic,Cluster initiated by imported case,61,NA,NA,NA,Cluster_fam_sec_28,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+GF785,10/3/20,15/3/20,10/3/20,NA,symptomatic,Cluster initiated by imported case,62,Cluster_Travel_05_USA_CX811,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/15/P2020031500734.htm
+KA942,NA,17/3/20,17/3/20,NA,asymptomatic,Cluster initiated by imported case,62,Cluster_Travel_05_USA_CX811,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/18/P2020031700785.htm
+MK800,18/3/20,21/3/20,18/3/20,NA,symptomatic,Cluster initiated by imported case,62,Cluster_Travel_05_USA_CX811,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/21/P2020032100701.htm
+KH870,13/3/20,16/3/20,13/3/20,NA,symptomatic,Cluster of imported cases,63,cluster_travel_23_Egypt,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/16/P2020031600812.htm
+PJ901,12/3/20,28/3/20,12/3/20,Y,symptomatic,Cluster of imported cases,63,cluster_travel_23_Egypt,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+GR120,11/3/20,16/3/20,11/3/20,NA,symptomatic,Cluster initiated by imported case,64,Cluster_fam_24,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/16/P2020031600812.htm
+KB772,18/3/20,20/3/20,18/3/20,Y,symptomatic,Cluster initiated by imported case,64,Cluster_fam_24,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+FT679,19/3/20,22/3/20,19/3/20,Y,symptomatic,Cluster initiated by imported case,64,Cluster_fam_24,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+QJ495,25/1/20,29/1/20,25/1/20,NA,symptomatic,Cluster initiated by imported case,65,Cluster_fam_03,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202001/29/P2020012900804.htm
+GO218,25/1/20,29/1/20,25/1/20,NA,symptomatic,Cluster initiated by imported case,65,Cluster_fam_03,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202001/29/P2020012900804.htm
+YR795,15/3/20,16/3/20,15/3/20,NA,symptomatic,Cluster of imported cases,66,Cluster_travel_07_Canada,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/16/P2020031600812.htm
+CA879,NA,16/3/20,16/3/20,NA,asymptomatic,Cluster of imported cases,66,Cluster_travel_07_Canada,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/16/P2020031600812.htm
+MI132,15/3/20,17/3/20,15/3/20,NA,symptomatic,Cluster of imported cases,67,Cluster_fam_40,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/18/P2020031700785.htm
+IW696,NA,29/3/20,29/3/20,Y,asymptomatic,Cluster of imported cases,67,Cluster_fam_40,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+IP932,12/3/20,17/3/20,12/3/20,NA,symptomatic,Cluster of imported cases,68,Cluster_flight_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/18/P2020031700785.htm
+YR615,20/3/20,24/3/20,20/3/20,Y,symptomatic,Cluster of imported cases,68,Cluster_flight_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+DS313,5/3/20,17/3/20,5/3/20,NA,symptomatic,Cluster of imported cases,69,Cluster_travel_13_Denmark,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/18/P2020031700785.htm
+XD606,16/3/20,22/3/20,16/3/20,Y,symptomatic,Cluster of imported cases,69,Cluster_travel_13_Denmark,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+TR290,16/3/20,18/3/20,16/3/20,NA,symptomatic,Cluster initiated by imported case,70,Cluster_meal_06_Wong ChukHang,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+TN949,18/3/20,19/3/20,18/3/20,NA,symptomatic,Cluster initiated by imported case,70,Cluster_meal_06_Wong ChukHang,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900706.htm
+YU725,15/3/20,22/3/20,15/3/20,NA,symptomatic,Cluster initiated by imported case,70,Cluster_meal_06_Wong ChukHang,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+YQ341,20/3/20,22/3/20,20/3/20,NA,symptomatic,Cluster initiated by imported case,70,Cluster_meal_06_Wong ChukHang,Cluster_partner_01,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+CU979,NA,24/3/20,24/3/20,Y,asymptomatic,Cluster initiated by imported case,70,Cluster_meal_06_Wong ChukHang,Cluster_partner_01,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+PO445,15/3/20,18/3/20,15/3/20,NA,symptomatic,Cluster of imported cases,71,Cluster_sport,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+IM234,19/3/20,20/3/20,19/3/20,Y,symptomatic,Cluster of imported cases,71,Cluster_sport,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+UY414,20/3/20,22/3/20,20/3/20,Y,symptomatic,Cluster of imported cases,71,Cluster_sport,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+WY653,NA,28/3/20,28/3/20,N,asymptomatic,Cluster of imported cases,71,Cluster_sport,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+SF362,NA,2/4/20,2/4/20,NA,asymptomatic,Cluster of imported cases,71,Cluster_sport,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+BA477,12/3/20,17/3/20,12/3/20,NA,symptomatic,Cluster initiated by imported case,72,NA,NA,NA,Cluster_sec_meal_07_TST,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/18/P2020031700785.htm
+KQ310,9/3/20,18/3/20,9/3/20,NA,symptomatic,Cluster initiated by imported case,72,Cluster_school,Cluster_fam_23,NA,Cluster_sec_meal_07_TST,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+RO194,18/3/20,20/3/20,18/3/20,NA,symptomatic,Cluster initiated by imported case,72,Cluster_school,Cluster_fam_23,NA,Cluster_sec_meal_07_TST,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+PG781,13/3/20,20/3/20,13/3/20,NA,symptomatic,Cluster initiated by imported case,72,Cluster_school,NA,NA,Cluster_sec_dating_02,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+WM391,20/3/20,22/3/20,20/3/20,NA,symptomatic,Cluster initiated by imported case,72,Cluster_school,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+FX694,19/3/20,23/3/20,19/3/20,Y,symptomatic,Cluster initiated by imported case,72,NA,NA,NA,Cluster_sec_dating_02,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+VL174,13/3/20,18/3/20,13/3/20,NA,symptomatic,Cluster of imported cases,73,Cluster_Travel_09_Okinawa,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+QU988,15/3/20,18/3/20,15/3/20,NA,symptomatic,Cluster of imported cases,73,Cluster_Travel_09_Okinawa,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+HZ890,16/3/20,18/3/20,16/3/20,NA,symptomatic,Cluster of imported cases,74,Cluster_fam_09,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+PF109,16/3/20,18/3/20,16/3/20,NA,symptomatic,Cluster of imported cases,74,Cluster_fam_09,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+YN178,15/3/20,18/3/20,15/3/20,NA,symptomatic,Cluster of imported cases,75,Cluster_fam_19,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+FX735,NA,20/3/20,20/3/20,NA,asymptomatic,Cluster of imported cases,75,Cluster_fam_19,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+XF822,16/3/20,20/3/20,16/3/20,NA,symptomatic,Cluster of imported cases,75,NA,Cluster_Dating_01,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+HU838,17/3/20,21/3/20,17/3/20,NA,symptomatic,Cluster of imported cases,75,Cluster_fam_19,Cluster_Dating_01,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/21/P2020032100701.htm
+KU419,29/1/20,31/1/20,29/1/20,NA,symptomatic,Cluster initiated by imported case,76,Cluster_fam_04,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202001/31/P2020013100798.htm
+AK199,1/2/20,2/2/20,1/2/20,Y,symptomatic,Cluster initiated by imported case,76,Cluster_fam_04,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/02/P2020020200626.htm
+KJ484,11/3/20,18/3/20,11/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+QB576,11/3/20,18/3/20,11/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+EC248,17/3/20,20/3/20,17/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+UD155,17/3/20,22/3/20,17/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,Cluster_Roommate_01,Cluster_Band,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+XN778,21/3/20,23/3/20,21/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+QJ781,22/3/20,24/3/20,22/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,Cluster_fam_65,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+NZ155,NA,24/3/20,24/3/20,NA,asymptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,Cluster_fam_31,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+NW380,22/3/20,24/3/20,22/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,Cluster_fam_31,Cluster_Band,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+JI717,23/3/20,24/3/20,23/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+OS528,21/3/20,24/3/20,21/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+CK901,22/3/20,24/3/20,22/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+WY335,21/3/20,25/3/20,21/3/20,N,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,Cluster_Band,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+ZI346,10/3/20,25/3/20,10/3/20,N,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+PF458,21/3/20,25/3/20,21/3/20,N,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+WP288,20/3/20,25/3/20,20/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_sec_dating_05,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+SD879,23/3/20,26/3/20,23/3/20,N,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+ES136,23/3/20,26/3/20,23/3/20,N,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+IA113,24/3/20,26/3/20,24/3/20,N,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_sec_chatting,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+DQ335,24/3/20,26/3/20,24/3/20,N,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_sec_Roommate_01,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+IB383,21/3/20,26/3/20,21/3/20,N,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,Cluster_Roommate_01,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+YM305,17/3/20,26/3/20,17/3/20,N,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,Cluster_Roommate_01,Cluster_Band,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+UL371,22/3/20,26/3/20,22/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+CL992,23/3/20,26/3/20,23/3/20,N,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_work_sec_04,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+CN769,24/3/20,26/3/20,24/3/20,N,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_fam_sec_22,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+EJ473,25/3/20,26/3/20,25/3/20,N,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+CH521,11/3/20,26/3/20,11/3/20,N,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_fam_sec_23,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+BZ267,23/3/20,27/3/20,23/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+EN721,23/3/20,27/3/20,23/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_fam_sec_13,Cluster_sec_hugging,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+VJ472,22/3/20,27/3/20,22/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+FT538,22/3/20,27/3/20,22/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_fam__sec_14,Cluster_sec_neighbour_Yick Shing,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+JQ579,NA,27/3/20,27/3/20,NA,asymptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+IW852,18/3/20,27/3/20,18/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_sec_ChinaBar,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+RQ344,20/3/20,27/3/20,20/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_sec_Dinner,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+FE713,26/3/20,27/3/20,26/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+CU680,24/3/20,27/3/20,24/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+SW913,21/3/20,27/3/20,21/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_sec_dating_06,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+QY148,22/3/20,27/3/20,22/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+JF439,25/3/20,27/3/20,25/3/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_work_sec_04,NA,Cluster_beautyparlour,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+UR409,24/3/20,27/3/20,24/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+PL912,NA,27/3/20,27/3/20,NA,asymptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+NN905,26/3/20,27/3/20,26/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+LV395,25/3/20,27/3/20,25/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+BD289,24/3/20,27/3/20,24/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_sec_dating_04,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+EE161,24/3/20,27/3/20,24/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+VL444,25/3/20,27/3/20,25/3/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_fam_sec_13,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+XB825,25/3/20,27/3/20,25/3/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_sec_ChinaBar,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+DE173,26/3/20,27/3/20,26/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+UT524,24/3/20,27/3/20,24/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+QJ118,25/3/20,28/3/20,25/3/20,N,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+MA489,24/3/20,28/3/20,24/3/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_fam__sec_14,Cluster_sec_neighbour_Yick Shing,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+BA501,22/3/20,28/3/20,22/3/20,N,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_fam_sec_26,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+OV575,NA,28/3/20,28/3/20,N,asymptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+LD489,25/3/20,28/3/20,25/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+HM183,22/3/20,28/3/20,22/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+GR516,24/3/20,28/3/20,24/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_fam__sec_15,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+YO672,26/3/20,28/3/20,26/3/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_fam__sec_15,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+BL714,27/3/20,28/3/20,27/3/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_fam__sec_15,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+NP321,26/3/20,28/3/20,26/3/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_fam__sec_15,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+KE138,24/3/20,28/3/20,24/3/20,N,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,cluster_fam_sec_16,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+TX252,27/3/20,29/3/20,27/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,Cluster_Dating_02,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+KU350,23/3/20,29/3/20,23/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,Cluster_Dating_02,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+JM936,24/3/20,29/3/20,24/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+LV127,NA,29/3/20,29/3/20,Y,asymptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+PU901,NA,29/3/20,29/3/20,Y,asymptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+MA797,28/3/20,29/3/20,28/3/20,Y,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_sec_Roommate_01,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+LR356,NA,29/3/20,29/3/20,NA,asymptomatic,Cluster initiated by local case,77,NA,NA,NA,cluster_fam_sec_16,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+FT869,26/3/20,29/3/20,26/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_sec_travel_01,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+IA479,26/3/20,29/3/20,26/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+JJ380,29/3/20,30/3/20,29/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+UM270,22/3/20,30/3/20,22/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+YT596,26/3/20,30/3/20,26/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+PS273,29/3/20,31/3/20,29/3/20,N,symptomatic,Cluster initiated by local case,77,NA,NA,NA,cluster_fam_sec_16,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+VW411,25/3/20,31/3/20,25/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+NZ740,NA,1/4/20,1/4/20,Y,asymptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_sec_Dinner,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+CF543,26/3/20,1/4/20,26/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_fam_sec_19,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+DP752,23/3/20,1/4/20,23/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+RH657,29/3/20,1/4/20,29/3/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,NA,NA,Cluster_beautyparlour,Cluster_quad_friend,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+PW898,30/3/20,1/4/20,30/3/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,NA,Cluster_sec_hugging,Cluster_fam_tertiary_01,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+VV705,31/3/20,1/4/20,31/3/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,NA,Cluster_sec_neighbour_Yick Shing,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+ST977,30/3/20,2/4/20,30/3/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,NA,NA,NA,Cluster_quad_friend,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+GA490,2/4/20,3/4/20,2/4/20,Y,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_sec_dating_04,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+TI391,31/3/20,3/4/20,31/3/20,Y,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_sec_Roommate_01,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+WX338,2/4/20,3/4/20,2/4/20,Y,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+TR873,2/4/20,3/4/20,2/4/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_fam_sec_19,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+SK877,24/3/20,3/4/20,24/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+FW741,25/3/20,4/4/20,25/3/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_sec_chatting,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/04/P2020040400619.htm
+BR203,NA,4/4/20,4/4/20,NA,asymptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/04/P2020040400619.htm
+RQ982,NA,5/4/20,5/4/20,Y,asymptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_fam_sec_25,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+OV560,NA,5/4/20,5/4/20,Y,asymptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,Cluster_fam_65,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+PB638,30/3/20,5/4/20,30/3/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_sec_travel_01,NA,Cluster_fam_tertiary_02,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+GH602,3/4/20,5/4/20,3/4/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,NA,NA,Cluster_fam_tertiary_01,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+HZ467,NA,6/4/20,6/4/20,Y,asymptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+VT858,NA,6/4/20,6/4/20,Y,asymptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_sec_dating_05,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+EK310,NA,6/4/20,6/4/20,Y,asymptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+ZU913,27/3/20,6/4/20,27/3/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_fam_sec_22,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+VG381,27/3/20,6/4/20,27/3/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_fam_sec_22,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+TJ223,1/4/20,7/4/20,1/4/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_fam_sec_25,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+RK889,3/4/20,7/4/20,3/4/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_fam_sec_26,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+NX270,6/4/20,7/4/20,6/4/20,Y,symptomatic,Cluster initiated by local case,77,NA,NA,NA,NA,Cluster_sec_neighbour_Yick Shing,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+EC101,NA,7/4/20,7/4/20,Y,asymptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_fam_sec_23,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+PQ411,5/4/20,8/4/20,5/4/20,Y,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_sec_dating_06,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+DA271,21/3/20,9/4/20,21/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/09/P2020040900708.htm
+OC631,8/4/20,9/4/20,8/4/20,Y,symptomatic,Cluster initiated by local case,77,NA,NA,NA,NA,NA,Cluster_fam_tertiary_01,NA,https://www.info.gov.hk/gia/general/202004/09/P2020040900708.htm
+VZ664,28/3/20,10/4/20,28/3/20,NA,symptomatic,Cluster initiated by local case,77,NA,NA,NA,Cluster_sec_dating_07,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/10/P2020041000577.htm
+QQ439,25/3/20,11/4/20,25/3/20,NA,symptomatic,Cluster initiated by local case,77,Cluster_Bar and Band,NA,NA,Cluster_sec_dating_07,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/11/P2020041100611.htm 
+WR662,NA,13/4/20,13/4/20,Y,asymptomatic,Cluster initiated by local case,77,NA,NA,NA,NA,NA,Cluster_fam_tertiary_02,NA,https://www.info.gov.hk/gia/general/202004/13/P2020041300624.htm
+BR745,9/3/20,18/3/20,9/3/20,NA,symptomatic,Cluster of imported cases,78,Cluster_friends_05_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+XN874,NA,31/3/20,31/3/20,NA,asymptomatic,Cluster of imported cases,78,Cluster_friends_05_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+HS951,11/3/20,18/3/20,11/3/20,NA,symptomatic,Cluster of imported cases,79,Cluster_fam_10,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+JM340,12/3/20,18/3/20,12/3/20,NA,symptomatic,Cluster of imported cases,79,Cluster_fam_10,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+GB854,19/3/20,27/3/20,19/3/20,NA,symptomatic,Cluster of imported cases,79,Cluster_fam_10,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+SV261,4/4/20,8/4/20,4/4/20,Y,symptomatic,Cluster of imported cases,79,Cluster_fam_10,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/08/P2020040800711.htm
+RT165,16/3/20,18/3/20,16/3/20,NA,symptomatic,Cluster initiated by local case,80,Cluster_gathering_01_LKF,Cluster_wedding_01,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900018.htm
+IQ990,13/3/20,20/3/20,13/3/20,NA,symptomatic,Cluster initiated by local case,80,Cluster_gathering_01_LKF,NA,NA,Cluster_fam_sec_12,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+CQ665,18/3/20,20/3/20,18/3/20,NA,symptomatic,Cluster initiated by local case,80,NA,Cluster_wedding_01,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+WF998,18/3/20,20/3/20,18/3/20,NA,symptomatic,Cluster initiated by local case,80,NA,Cluster_wedding_01,NA,Cluster_fam_sec_09,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+LH430,16/3/20,20/3/20,16/3/20,NA,symptomatic,Cluster initiated by local case,80,Cluster_gathering_01_LKF,Cluster_wedding_01,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+ZQ431,17/3/20,20/3/20,17/3/20,NA,symptomatic,Cluster initiated by local case,80,NA,Cluster_wedding_01,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+YH808,18/3/20,21/3/20,18/3/20,NA,symptomatic,Cluster initiated by local case,80,NA,Cluster_wedding_01,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/21/P2020032100701.htm
+QZ898,15/3/20,21/3/20,15/3/20,NA,symptomatic,Cluster initiated by local case,80,NA,Cluster_wedding_01,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/21/P2020032100701.htm
+LB307,18/3/20,22/3/20,18/3/20,NA,symptomatic,Cluster initiated by local case,80,Cluster_gathering_01_LKF,,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+FV483,17/3/20,22/3/20,17/3/20,NA,symptomatic,Cluster initiated by local case,80,Cluster_gathering_01_LKF,,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+OD722,NA,22/3/20,22/3/20,Y,asymptomatic,Cluster initiated by local case,80,NA,Cluster_wedding_01,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+AE662,17/3/20,22/3/20,17/3/20,NA,symptomatic,Cluster initiated by local case,80,NA,Cluster_wedding_01,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+YR694,20/3/20,22/3/20,20/3/20,NA,symptomatic,Cluster initiated by local case,80,NA,NA,NA,Cluster_fam_sec_09,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+KM334,18/3/20,22/3/20,18/3/20,NA,symptomatic,Cluster initiated by local case,80,NA,NA,NA,Cluster_fam_sec_09,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+BI720,NA,23/3/20,23/3/20,NA,asymptomatic,Cluster initiated by local case,80,Cluster_gathering_01_LKF,Cluster_wedding_01,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+BI957,20/3/20,24/3/20,20/3/20,NA,symptomatic,Cluster initiated by local case,80,Cluster_gathering_01_LKF,Cluster_wedding_01,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+BH553,21/3/20,24/3/20,21/3/20,Y,symptomatic,Cluster initiated by local case,80,NA,NA,NA,Cluster_fam_sec_12,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+PV664,17/3/20,26/3/20,17/3/20,N,symptomatic,Cluster initiated by local case,80,Cluster_gathering_01_LKF,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+KJ216,20/3/20,28/3/20,20/3/20,NA,symptomatic,Cluster initiated by local case,80,NA,NA,NA,Cluster_fam_sec_45,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+ZK279,22/3/20,28/3/20,22/3/20,N,symptomatic,Cluster initiated by local case,80,Cluster_gathering_01_LKF,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+CM854,29/3/20,30/3/20,29/3/20,NA,symptomatic,Cluster initiated by local case,80,NA,NA,NA,Cluster_fam_sec_45,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+LK483,30/3/20,31/3/20,30/3/20,N,symptomatic,Cluster initiated by local case,80,NA,NA,NA,Cluster_fam_sec_45,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+XB594,17/3/20,19/3/20,17/3/20,NA,symptomatic,Cluster initiated by local case,81,Cluster_fam_60,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900706.htm
+MC155,21/3/20,23/3/20,21/3/20,NA,symptomatic,Cluster initiated by local case,81,Cluster_fam_60,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+CF980,21/3/20,24/3/20,21/3/20,NA,symptomatic,Cluster initiated by local case,81,Cluster_fam_60,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+XG247,18/3/20,19/3/20,18/3/20,NA,symptomatic,Cluster of imported cases,82,Cluster_travel_15_Switzerland,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900706.htm
+GM279,19/3/20,23/3/20,19/3/20,NA,symptomatic,Cluster of imported cases,82,Cluster_travel_15_Switzerland,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+XD100,17/3/20,25/3/20,17/3/20,NA,symptomatic,Cluster of imported cases,82,Cluster_travel_15_Switzerland,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+TG217,18/3/20,19/3/20,18/3/20,NA,symptomatic,Cluster of imported cases,83,Cluster_fam_21,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900706.htm
+SN184,18/3/20,20/3/20,18/3/20,NA,symptomatic,Cluster of imported cases,83,Cluster_fam_21,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+ET749,16/3/20,19/3/20,16/3/20,NA,symptomatic,Cluster of imported cases,84,Cluster_fam_25,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900706.htm
+QD983,17/3/20,20/3/20,17/3/20,NA,symptomatic,Cluster of imported cases,84,Cluster_fam_25,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+AO354,16/3/20,19/3/20,16/3/20,NA,symptomatic,Cluster initiated by imported case,85,Cluster_fam_28,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/19/P2020031900706.htm
+MW828,20/3/20,23/3/20,20/3/20,NA,symptomatic,Cluster initiated by imported case,85,Cluster_fam_28,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+TF682,14/3/20,20/3/20,14/3/20,NA,symptomatic,Cluster of imported cases,86,Cluster_fam_22,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+JY892,17/3/20,20/3/20,17/3/20,NA,symptomatic,Cluster of imported cases,86,Cluster_fam_22,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+KL615,23/1/20,1/2/20,23/1/20,NA,symptomatic,Cluster of imported cases,87,Cluster_cruise_Diamond Princess,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/01/P2020020100791.htm
+QI336,20/2/20,23/2/20,20/2/20,Y,symptomatic,Cluster of imported cases,87,Cluster_cruise_Diamond Princess,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/23/P2020022300733.htm
+OV957,24/2/20,24/2/20,24/2/20,Y,symptomatic,Cluster of imported cases,87,Cluster_cruise_Diamond Princess,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/24/P2020022400753.htm
+EL998,4/2/20,24/2/20,4/2/20,Y,symptomatic,Cluster of imported cases,87,Cluster_cruise_Diamond Princess,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/24/P2020022400753.htm
+XK465,NA,24/2/20,24/2/20,Y,asymptomatic,Cluster of imported cases,87,Cluster_cruise_Diamond Princess,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/24/P2020022400753.htm
+SF950,NA,24/2/20,24/2/20,Y,asymptomatic,Cluster of imported cases,87,Cluster_cruise_Diamond Princess,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/24/P2020022400753.htm
+EU762,12/2/20,26/2/20,12/2/20,Y,symptomatic,Cluster of imported cases,87,Cluster_cruise_Diamond Princess,Cluster_fam_14,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/26/P2020022600842.htm
+CY605,17/2/20,26/2/20,17/2/20,Y,symptomatic,Cluster of imported cases,87,Cluster_cruise_Diamond Princess,Cluster_fam_14,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/26/P2020022600842.htm
+EM868,NA,28/2/20,28/2/20,Y,asymptomatic,Cluster of imported cases,87,Cluster_cruise_Diamond Princess,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/28/P2020022800752.htm
+AW362,15/2/20,1/3/20,15/2/20,Y,symptomatic,Cluster of imported cases,87,Cluster_cruise_Diamond Princess,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/01/P2020030100724.htm
+SY368,NA,1/3/20,1/3/20,Y,asymptomatic,Cluster of imported cases,87,Cluster_cruise_Diamond Princess,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/01/P2020030100724.htm
+KL468,18/3/20,20/3/20,18/3/20,NA,symptomatic,Cluster of imported cases,88,Cluster_fam_26,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+ZX779,19/3/20,21/3/20,19/3/20,NA,symptomatic,Cluster of imported cases,88,Cluster_fam_26,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/21/P2020032100701.htm
+VK826,16/3/20,20/3/20,16/3/20,NA,symptomatic,Cluster initiated by local case,89,Cluster_fam_27,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+MH463,20/3/20,22/3/20,20/3/20,NA,symptomatic,Cluster initiated by local case,89,Cluster_fam_27,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+QW737,16/3/20,20/3/20,16/3/20,NA,symptomatic,Cluster initiated by imported case,90,cluster_coffee,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+GQ457,13/3/20,23/3/20,13/3/20,NA,symptomatic,Cluster initiated by imported case,90,cluster_coffee,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+SE930,11/3/20,23/3/20,11/3/20,NA,symptomatic,Cluster initiated by imported case,90,cluster_coffee,NA,NA,Cluster_fam_sec_20,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+QG478,NA,4/4/20,4/4/20,Y,asymptomatic,Cluster initiated by imported case,90,NA,NA,NA,Cluster_fam_sec_20,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/04/P2020040400619.htm
+YM265,18/3/20,20/3/20,18/3/20,NA,symptomatic,Cluster of imported cases,91,Cluster_travel_11_BoliviaCanadaPeru,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+MO357,15/3/20,20/3/20,15/3/20,NA,symptomatic,Cluster of imported cases,91,Cluster_travel_11_BoliviaCanadaPeru,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+RL372,16/3/20,21/3/20,16/3/20,NA,symptomatic,Cluster of imported cases,91,Cluster_travel_11_BoliviaCanadaPeru,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/21/P2020032100701.htm
+JT765,13/3/20,21/3/20,13/3/20,NA,symptomatic,Cluster of imported cases,91,Cluster_travel_11_BoliviaCanadaPeru,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/21/P2020032100701.htm
+LR475,14/3/20,21/3/20,14/3/20,NA,symptomatic,Cluster of imported cases,91,Cluster_travel_11_BoliviaCanadaPeru,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/21/P2020032100701.htm
+AI839,14/3/20,22/3/20,14/3/20,NA,symptomatic,Cluster of imported cases,91,Cluster_travel_11_BoliviaCanadaPeru,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+BA602,3/3/20,22/3/20,3/3/20,NA,symptomatic,Cluster of imported cases,91,Cluster_travel_11_BoliviaCanadaPeru,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+LW756,20/3/20,26/3/20,20/3/20,NA,symptomatic,Cluster of imported cases,91,Cluster_travel_11_BoliviaCanadaPeru,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+NY831,15/3/20,20/3/20,15/3/20,NA,symptomatic,Cluster of imported cases,92,Cluster_travel_16_Switzerland,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+GZ208,20/3/20,23/3/20,20/3/20,NA,symptomatic,Cluster of imported cases,92,Cluster_travel_16_Switzerland,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+GU587,9/3/20,20/3/20,9/3/20,NA,symptomatic,Cluster of imported cases,93,Cluster_Dating_05,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/20/P2020032000843.htm
+CA761,10/3/20,5/4/20,10/3/20,NA,symptomatic,Cluster of imported cases,93,Cluster_Dating_05,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+ZE674,17/3/20,21/3/20,17/3/20,NA,symptomatic,Cluster initiated by local case,94,Cluster_work_03,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/21/P2020032100701.htm
+AL209,20/3/20,23/3/20,20/3/20,NA,symptomatic,Cluster initiated by local case,94,Cluster_work_03,NA,NA,Cluster_sec_dating_03,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+MH914,NA,23/3/20,23/3/20,NA,asymptomatic,Cluster initiated by local case,94,Cluster_work_03,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+OE917,23/3/20,3/4/20,23/3/20,Y,symptomatic,Cluster initiated by local case,94,NA,NA,NA,Cluster_sec_dating_03,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/03/P2020040300642.htm
+TM821,18/3/20,22/3/20,18/3/20,NA,symptomatic,Cluster initiated by local case,95,Cluster_work_02,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+GJ377,16/3/20,22/3/20,16/3/20,NA,symptomatic,Cluster initiated by local case,95,Cluster_work_02,NA,NA,Cluster_fam_sec_18,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+GN367,20/3/20,24/3/20,20/3/20,NA,symptomatic,Cluster initiated by local case,95,Cluster_work_02,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+RN428,19/3/20,25/3/20,19/3/20,N,symptomatic,Cluster initiated by local case,95,Cluster_work_02,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+FS489,20/3/20,26/3/20,20/3/20,N,symptomatic,Cluster initiated by local case,95,Cluster_work_02,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+WS317,24/3/20,2/4/20,24/3/20,Y,symptomatic,Cluster initiated by local case,95,NA,NA,NA,Cluster_fam_sec_18,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+YO171,22/1/20,4/2/20,22/1/20,NA,symptomatic,Cluster initiated by local case,96,Cluster_fam_05,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/05/P2020020400730.htm
+ZN918,30/1/20,5/2/20,30/1/20,NA,symptomatic,Cluster initiated by local case,96,Cluster_fam_05,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/05/P2020020500690.htm
+VM767,4/2/20,5/2/20,4/2/20,NA,symptomatic,Cluster initiated by local case,96,Cluster_fam_05,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/05/P2020020500690.htm
+SS810,20/3/20,22/3/20,20/3/20,NA,symptomatic,Cluster of imported cases,97,Cluster_travel_14_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+VC783,19/3/20,23/3/20,19/3/20,NA,symptomatic,Cluster of imported cases,97,Cluster_travel_14_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+MH442,19/3/20,22/3/20,19/3/20,NA,symptomatic,Cluster of imported cases,98,Cluster_travel_21_Switzerland,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/22/P2020032200798.htm
+IA581,17/3/20,25/3/20,17/3/20,Y,symptomatic,Cluster of imported cases,98,Cluster_travel_21_Switzerland,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+ZS814,17/3/20,23/3/20,17/3/20,NA,symptomatic,Cluster of imported cases,99,Cluster_friends_01_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+MI725,15/3/20,23/3/20,15/3/20,NA,symptomatic,Cluster of imported cases,99,Cluster_friends_01_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+GV221,NA,23/3/20,23/3/20,NA,asymptomatic,Cluster of imported cases,99,Cluster_friends_01_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+KD244,22/3/20,23/3/20,22/3/20,NA,symptomatic,Cluster of imported cases,100,Cluster_fam_41,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+JF575,27/3/20,29/3/20,27/3/20,Y,symptomatic,Cluster of imported cases,100,Cluster_fam_41,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+SX318,18/3/20,23/3/20,18/3/20,NA,symptomatic,Cluster of imported cases,101,Cluster_travel_19_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+TM874,NA,25/3/20,25/3/20,NA,asymptomatic,Cluster of imported cases,101,Cluster_travel_19_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+TO186,NA,25/3/20,25/3/20,NA,asymptomatic,Cluster of imported cases,101,Cluster_travel_19_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+FP269,22/3/20,23/3/20,22/3/20,NA,symptomatic,Cluster initiated by local case,102,Cluster_fam_49,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+FG336,29/3/20,31/3/20,29/3/20,Y,symptomatic,Cluster initiated by local case,102,Cluster_fam_49,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+RJ368,18/3/20,23/3/20,18/3/20,NA,symptomatic,Cluster of imported cases,103,Cluster_fam_29,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+RP375,14/3/20,23/3/20,14/3/20,NA,symptomatic,Cluster of imported cases,103,Cluster_fam_29,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+IR539,18/3/20,23/3/20,18/3/20,NA,symptomatic,Cluster of imported cases,104,Cluster_travel_18_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/23/P2020032300752.htm
+PH706,19/3/20,25/3/20,19/3/20,NA,symptomatic,Cluster of imported cases,104,Cluster_travel_18_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+KF431,20/3/20,27/3/20,20/3/20,NA,symptomatic,Cluster of imported cases,104,Cluster_travel_18_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+ID859,27/3/20,29/3/20,27/3/20,NA,symptomatic,Cluster of imported cases,104,Cluster_travel_18_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+ER691,20/3/20,24/3/20,20/3/20,NA,symptomatic,Cluster initiated by imported case,105,Cluster_fam_55,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+FO795,NA,2/4/20,2/4/20,Y,asymptomatic,Cluster initiated by imported case,105,Cluster_fam_55,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+DZ425,17/3/20,24/3/20,17/3/20,NA,symptomatic,Cluster of imported cases,106,Cluster_travel_17_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+DD115,19/3/20,24/3/20,19/3/20,NA,symptomatic,Cluster of imported cases,106,Cluster_travel_17_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+GU402,30/1/20,5/2/20,30/1/20,NA,symptomatic,Cluster initiated by imported case,107,Cluster_fam_06,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/05/P2020020500690.htm
+FT281,1/2/20,6/2/20,1/2/20,NA,symptomatic,Cluster initiated by imported case,107,Cluster_fam_06,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/06/P2020020600703.htm
+ZP757,19/3/20,24/3/20,19/3/20,NA,symptomatic,Cluster of imported cases,108,Cluster_travel_22_spain,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/24/P2020032400781.htm
+GZ456,24/3/20,27/3/20,24/3/20,NA,symptomatic,Cluster of imported cases,108,Cluster_travel_22_spain,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+BO218,23/3/20,27/3/20,23/3/20,NA,symptomatic,Cluster of imported cases,108,Cluster_travel_22_spain,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+KA952,23/3/20,25/3/20,23/3/20,NA,symptomatic,Cluster of imported cases,109,cluster_flight+classmate_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+YM119,NA,27/3/20,27/3/20,NA,asymptomatic,Cluster of imported cases,109,cluster_flight+classmate_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+DK339,23/3/20,27/3/20,23/3/20,NA,symptomatic,Cluster of imported cases,109,cluster_flight+classmate_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+RM555,25/3/20,28/3/20,25/3/20,NA,symptomatic,Cluster of imported cases,109,cluster_flight+classmate_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+NB179,23/3/20,25/3/20,23/3/20,NA,symptomatic,Cluster of imported cases,110,Cluster_travel_20_SouthAfrica,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+UI370,23/3/20,25/3/20,23/3/20,NA,symptomatic,Cluster of imported cases,110,Cluster_travel_20_SouthAfrica,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+SD440,23/3/20,25/3/20,23/3/20,N,symptomatic,Cluster initiated by imported case,111,Cluster_fam_56,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/25/P2020032500783.htm
+ZF257,31/3/20,2/4/20,31/3/20,NA,symptomatic,Cluster initiated by imported case,111,Cluster_fam_56,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+FQ437,16/3/20,26/3/20,16/3/20,N,symptomatic,Cluster initiated by imported case,112,Cluster_fam_37,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+CC647,NA,29/3/20,29/3/20,NA,asymptomatic,Cluster initiated by imported case,112,Cluster_fam_37,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+TH506,17/3/20,26/3/20,17/3/20,NA,symptomatic,Cluster of imported cases,113,Cluster_fam_53,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+EI733,17/3/20,1/4/20,17/3/20,Y,symptomatic,Cluster of imported cases,113,Cluster_fam_53,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+MQ540,23/3/20,26/3/20,23/3/20,NA,symptomatic,Cluster of imported cases,114,Cluster_friends_02_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+JN112,19/3/20,26/3/20,19/3/20,NA,symptomatic,Cluster of imported cases,114,Cluster_friends_02_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+RM500,NA,2/4/20,2/4/20,Y,asymptomatic,Cluster of imported cases,114,Cluster_friends_02_UK,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+QA484,25/3/20,26/3/20,25/3/20,NA,symptomatic,Cluster of imported cases,115,Cluster_fam_30,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+EX219,25/3/20,26/3/20,25/3/20,NA,symptomatic,Cluster of imported cases,115,Cluster_fam_30,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/26/P2020032600765.htm
+VZ336,15/3/20,27/3/20,15/3/20,NA,symptomatic,Cluster initiated by imported case,116,Cluster_work_04,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+QH864,24/3/20,4/4/20,24/3/20,NA,symptomatic,Cluster initiated by imported case,116,Cluster_work_04,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/04/P2020040400619.htm
+KI628,23/3/20,27/3/20,23/3/20,NA,symptomatic,Cluster of imported cases,117,Cluster_fam_66,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+AR163,NA,7/4/20,7/4/20,Y,asymptomatic,Cluster of imported cases,117,Cluster_fam_66,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/07/P2020040700657.htm 
+OD267,4/2/20,7/2/20,4/2/20,NA,symptomatic,Cluster initiated by imported case,118,Cluster_bus_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/07/P2020020700760.htm
+QP938,11/2/20,18/2/20,11/2/20,NA,symptomatic,Cluster initiated by imported case,118,Cluster_bus_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/18/P2020021800659.htm
+SF560,19/3/20,27/3/20,19/3/20,NA,symptomatic,Cluster of imported cases,119,Cluster_fam_42,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+EG134,22/3/20,30/3/20,22/3/20,Y,symptomatic,Cluster of imported cases,119,Cluster_fam_42,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+AT823,26/3/20,27/3/20,26/3/20,NA,symptomatic,Cluster initiated by imported case,120,Cluster_fam_36,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+TZ315,26/3/20,29/3/20,26/3/20,NA,symptomatic,Cluster initiated by imported case,120,Cluster_fam_36,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+HX316,26/3/20,29/3/20,26/3/20,NA,symptomatic,Cluster initiated by imported case,120,Cluster_fam_36,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+WB911,27/3/20,29/3/20,27/3/20,NA,symptomatic,Cluster initiated by imported case,120,Cluster_fam_36,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+ML189,30/3/20,1/4/20,30/3/20,NA,symptomatic,Cluster initiated by imported case,120,Cluster_fam_36,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+QA992,NA,27/3/20,27/3/20,NA,asymptomatic,Cluster of imported cases,121,Cluster_fam_32,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+TH971,26/3/20,27/3/20,26/3/20,NA,symptomatic,Cluster of imported cases,121,Cluster_fam_32,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+RN846,24/3/20,27/3/20,24/3/20,NA,symptomatic,Cluster of imported cases,122,Cluster_meal_UK_03,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+LQ438,NA,5/4/20,5/4/20,NA,asymptomatic,Cluster of imported cases,122,Cluster_meal_UK_03,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
+ER590,16/3/20,27/3/20,16/3/20,NA,symptomatic,Cluster of imported cases,123,Cluster_fam_33,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+DS501,NA,27/3/20,27/3/20,NA,asymptomatic,Cluster of imported cases,123,Cluster_fam_33,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+HO212,25/3/20,27/3/20,25/3/20,NA,symptomatic,Cluster of imported cases,124,Cluster_fam_35,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/27/P2020032700886.htm
+FH949,26/3/20,28/3/20,26/3/20,NA,symptomatic,Cluster of imported cases,124,Cluster_fam_35,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+OY174,26/3/20,28/3/20,26/3/20,NA,symptomatic,Cluster of imported cases,125,Cluster_fam_76,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+NE672,15/3/20,28/3/20,15/3/20,NA,symptomatic,Cluster of imported cases,125,Cluster_fam_76,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+KW982,21/3/20,28/3/20,21/3/20,NA,symptomatic,Cluster of imported cases,126,Cluster_fam_34,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+HE457,22/3/20,28/3/20,22/3/20,NA,symptomatic,Cluster of imported cases,126,Cluster_fam_34,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+OG852,20/3/20,28/3/20,20/3/20,NA,symptomatic,Cluster of imported cases,127,Cluster_meal_UK_02,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+OH740,28/3/20,1/4/20,28/3/20,NA,symptomatic,Cluster of imported cases,127,Cluster_meal_UK_02,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+ZQ499,30/1/20,9/2/20,30/1/20,NA,symptomatic,Cluster initiated by imported case,128,Cluster_meal_01_hotpot,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm
+YU251,1/2/20,9/2/20,1/2/20,NA,symptomatic,Cluster initiated by imported case,128,Cluster_meal_01_hotpot,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm
+PB479,29/1/20,9/2/20,29/1/20,NA,symptomatic,Cluster initiated by imported case,128,Cluster_meal_01_hotpot,NA,NA,Cluster_work_sec_01,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm
+LH171,28/1/20,9/2/20,28/1/20,NA,symptomatic,Cluster initiated by imported case,128,Cluster_meal_01_hotpot,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm
+LL232,4/2/20,9/2/20,4/2/20,NA,symptomatic,Cluster initiated by imported case,128,Cluster_meal_01_hotpot,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm
+RQ491,2/2/20,9/2/20,2/2/20,NA,symptomatic,Cluster initiated by imported case,128,Cluster_meal_01_hotpot,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm
+IY775,30/1/20,9/2/20,30/1/20,NA,symptomatic,Cluster initiated by imported case,128,Cluster_meal_01_hotpot,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm
+JM835,4/2/20,9/2/20,4/2/20,NA,symptomatic,Cluster initiated by imported case,128,Cluster_meal_01_hotpot,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm
+JB487,7/2/20,9/2/20,7/2/20,NA,symptomatic,Cluster initiated by imported case,128,Cluster_meal_01_hotpot,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm
+LY189,30/1/20,10/2/20,30/1/20,NA,symptomatic,Cluster initiated by imported case,128,Cluster_meal_01_hotpot,NA,NA,Cluster_work_sec_02,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/10/P2020021000753.htm
+FA842,8/2/20,10/2/20,8/2/20,NA,symptomatic,Cluster initiated by imported case,128,Cluster_meal_01_hotpot,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/10/P2020021000753.htm
+JS787,1/2/20,11/2/20,1/2/20,NA,symptomatic,Cluster initiated by imported case,128,NA,NA,NA,Cluster_work_sec_01,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+AN966,3/2/20,12/2/20,3/2/20,NA,symptomatic,Cluster initiated by imported case,128,NA,NA,NA,Cluster_work_sec_02,NA,NA,NA,https://www.info.gov.hk/gia/general/202002/12/P2020021200705.htm
+RE174,21/3/20,28/3/20,21/3/20,N,symptomatic,Cluster of imported cases,129,Cluster_travel_25_USA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+DY540,NA,1/4/20,1/4/20,NA,asymptomatic,Cluster of imported cases,129,Cluster_travel_25_USA,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/01/P2020040100687.htm
+AK710,27/3/20,28/3/20,27/3/20,NA,symptomatic,Cluster of imported cases,130,Cluster_Dating_04,Cluster_friends_04_UK,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+FQ169,27/3/20,30/3/20,27/3/20,NA,symptomatic,Cluster of imported cases,130,Cluster_Dating_04,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+LI113,22/3/20,31/3/20,22/3/20,NA,symptomatic,Cluster of imported cases,130,NA,Cluster_friends_04_UK,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/31/P2020033100671.htm
+CA668,21/3/20,6/4/20,21/3/20,NA,symptomatic,Cluster of imported cases,130,NA,Cluster_friends_04_UK,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/06/P2020040600583.htm
+QB174,11/3/20,28/3/20,11/3/20,NA,symptomatic,Cluster of imported cases,131,Cluster_Dating_03,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+IZ497,12/3/20,30/3/20,12/3/20,Y,symptomatic,Cluster of imported cases,131,Cluster_Dating_03,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+BA648,24/3/20,28/3/20,24/3/20,N,symptomatic,Cluster initiated by local case,132,Cluster_fam_46,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+FM143,27/3/20,30/3/20,27/3/20,NA,symptomatic,Cluster initiated by local case,132,Cluster_fam_46,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+BN442,26/3/20,28/3/20,26/3/20,NA,symptomatic,Cluster initiated by local case,133,Cluster_BirthdayParty_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+JS473,17/3/20,29/3/20,17/3/20,NA,symptomatic,Cluster initiated by local case,133,Cluster_BirthdayParty_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+SG254,18/3/20,28/3/20,18/3/20,NA,symptomatic,Cluster of imported cases,134,Cluster_fam_39,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/28/P2020032800802.htm
+KL612,NA,29/3/20,29/3/20,NA,asymptomatic,Cluster of imported cases,134,Cluster_fam_39,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+DC359,14/3/20,29/3/20,14/3/20,NA,symptomatic,Cluster of imported cases,135,Cluster_fam_38,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+TZ512,26/3/20,29/3/20,26/3/20,NA,symptomatic,Cluster of imported cases,135,Cluster_fam_38,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+QV878,25/3/20,29/3/20,25/3/20,NA,symptomatic,Cluster of imported cases,136,Cluster_fam_57,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+QP548,NA,2/4/20,2/4/20,Y,asymptomatic,Cluster of imported cases,136,Cluster_fam_57,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/02/P2020040200640.htm
+HQ996,29/3/20,4/4/20,29/3/20,NA,symptomatic,Cluster of imported cases,136,Cluster_fam_57,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/04/P2020040400619.htm
+HJ761,NA,4/4/20,4/4/20,NA,asymptomatic,Cluster of imported cases,136,Cluster_fam_57,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/04/P2020040400619.htm
+NL767,30/3/20,4/4/20,30/3/20,NA,symptomatic,Cluster of imported cases,136,Cluster_fam_57,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/04/P2020040400619.htm
+YU512,19/3/20,29/3/20,19/3/20,NA,symptomatic,Cluster of imported cases,137,Cluster_meal_UK_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020032900724.htm
+VC786,27/3/20,30/3/20,27/3/20,NA,symptomatic,Cluster of imported cases,137,Cluster_meal_UK_01,NA,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202003/30/P2020033000727.htm
+GF289,29/3/20,4/4/20,29/3/20,NA,symptomatic,Cluster of imported cases,137,Cluster_meal_UK_01,Cluster_Dating_06,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/04/P2020040400619.htm
+RH290,20/3/20,5/4/20,20/3/20,NA,symptomatic,Cluster of imported cases,137,Cluster_meal_UK_01,Cluster_Dating_06,NA,NA,NA,NA,NA,https://www.info.gov.hk/gia/general/202004/05/P2020040500534.htm 
