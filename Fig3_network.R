@@ -21,7 +21,6 @@ nodes <- enframe(c(bar_cluster$from, bar_cluster$to)) %>%
   transmute(id = value,
             label = value,
             to = value) %>%
-  mutate(to = as.numeric(to)) %>%
   left_join(.,bar_cluster, by = 'to') %>%
   dplyr::select(id, cluster.generation, cluster.risk) %>%
   mutate(color = case_when(id == 'NA' ~ '#b43b15',
@@ -180,7 +179,6 @@ nodes <- enframe(c(other_clusters$infector.case, other_clusters$infectee.case)) 
   transmute(id = value,
             label = value,
             infectee.case = value) %>%
-  mutate(infectee.case = as.numeric(infectee.case)) %>%
   left_join(., other_clusters, by = "infectee.case") %>%
   dplyr::select(id, label, cluster.risk) %>%
   mutate(color = case_when(id == 'NA' ~ '#b43b15',
