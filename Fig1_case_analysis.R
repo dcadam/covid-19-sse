@@ -11,7 +11,7 @@ case_data <- case_data %>%
          confirm.date = dmy(confirm.date),
          epi.date = dmy(epi.date))
 
-#Plot Figure 1
+#Plot Figure 1 (additional editing for production done in post)
 ggplot(data = case_data) +
   geom_bar(aes(x = epi.date, fill = cluster.category), colour = 'black', size = 0.05, binwidth = 1, alpha = 0.9) +
   labs(x="Illness Onset Date") +
