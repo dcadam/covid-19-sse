@@ -28,14 +28,14 @@ propresponsible(0.53,0.13,0.8)
 propresponsible(0.94,0.26,0.8)
 
 #Empirical Estiamtes P80% Wave 1
-propresponsible(0.60,0.38,0.8)
-propresponsible(0.38,0.19,0.8)
-propresponsible(0.87,0.86,0.8)
+propresponsible(0.61,0.40,0.8)
+propresponsible(0.38,0.21,0.8)
+propresponsible(0.88,0.86,0.8)
 
 #Empirical Estiamtes P80% Wave 2
-propresponsible(0.57,0.43,0.8)
-propresponsible(0.43,0.27,0.8)
-propresponsible(0.75,0.83,0.8)
+propresponsible(0.57,0.44,0.8)
+propresponsible(0.42,0.27,0.8)
+propresponsible(0.73,0.82,0.8)
 
 #Branching Process p80% Wave 1
 propresponsible(0.66,2.31,0.8)
@@ -71,14 +71,14 @@ nbinomcoefficient(0.53,0.13)
 nbinomcoefficient(0.94,0.26)
 
 #Empirical Estiamtes CV Wave 1
-nbinomcoefficient(0.60,0.38)
-nbinomcoefficient(0.38,0.19)
-nbinomcoefficient(0.87,0.86)
+nbinomcoefficient(0.61,0.40)
+nbinomcoefficient(0.38,0.21)
+nbinomcoefficient(0.88,0.86)
 
 #Empirical Estiamtes CV Wave 2
-nbinomcoefficient(0.57,0.43)
-nbinomcoefficient(0.43,0.27)
-nbinomcoefficient(0.75,0.83)
+nbinomcoefficient(0.57,0.44)
+nbinomcoefficient(0.42,0.27)
+nbinomcoefficient(0.73,0.82)
 
 #Branching Process CV
 nbinomcoefficient(0.74,0.33)
