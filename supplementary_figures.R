@@ -124,7 +124,7 @@ ggplot(data=age_transmission_pairs) +
   theme(aspect.ratio = 1, legend.position = "none", axis.text.x = element_text(angle = 90)) +
   scale_fill_grey()
 
-#Figure 3B
+#Figure 3B (missing age for 1 case responsible for 11 secondary cases)
 ggplot(data = transmission_pairs) +
   geom_count(aes(x = agegroup.infector, y = agegroup.infectee), colour = "black", alpha = 0.4) +
   geom_smooth(method = lm, aes(x=agegroup.infector, y=agegroup.infectee), se = T, size = 0.5, colour = "black", alpha = 0.2) +
@@ -317,12 +317,14 @@ wfit_boot <- summary(bootdist(wfit))
 lgfit_boot <- summary(bootdist(lgfit))
 
 #Supplementary Figure 6A
-ggplot(data = transmission_pairs) +
+transmission_pairs %>%
+  filter(!is.na(onset.diff)) %>%
+  ggplot() +
   geom_histogram(aes(x = onset.diff, y = ..density..), fill = '#dedede', colour = "black", binwidth = 1) +
   stat_function(fun = dgamma, args = list(shape = gfit$estimate[[1]], rate = gfit$estimate[[2]]), size = 0.8, linetype = 1) +
   stat_function(fun = dweibull, args = list(shape = wfit$estimate[[1]], scale = wfit$estimate[[2]]), size = 0.8, linetype = 2) +
   stat_function(fun = dlnorm, args = list(meanlog = lgfit$estimate[[1]], sdlog = lgfit$estimate[[2]]), size = 0.8, linetype = 3) +
-  scale_x_continuous("Serial Interval (Days)", limits = c(-5,30), breaks = seq(-5, 30, by =5), expand = c(0,0)) +
+  scale_x_continuous("Serial Interval (Days)") +
   scale_y_continuous("Proportion", expand = c(0,0), limits = c(0,0.20)) +
   theme_classic() +
   theme(aspect.ratio = 1)
@@ -407,7 +409,7 @@ nbfit_boot$estim %>%
   theme_classic() +
   theme(aspect.ratio = 1) +
   scale_x_continuous(expression(paste(italic("k"))), expand = c(0,0),limits = c(0,1.2), breaks = seq(0,1.2, by = 0.3)) +
-  scale_y_continuous("R", expand = c(0,0),limits = c(0,0.8), breaks = seq(0,0.8, by = 0.2))
+  scale_y_continuous("R", expand = c(0,0),limits = c(0,1.0), breaks = seq(0,1.0, by = 0.2))
 
 #Plot historgram of R estiamtes (Figure 7B)
 nbfit_boot$estim %>%
