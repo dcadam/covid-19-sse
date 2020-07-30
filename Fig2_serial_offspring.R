@@ -72,6 +72,10 @@ summary(nbfit)
 #bootstrap analysis
 nbfit_boot <- summary(bootdist(nbfit))
 
+
+#calculation of proportion of cases who do not spread to anyone from model
+dnbinom(0, size = nbfit$estimate[[1]], mu = nbfit$estimate[[2]])
+
 #plot offspring distribution with negative binomial parameters (Figure 2B)
 ggplot() +
   geom_histogram(aes(x=complete_offspringd$value, y = ..density..), fill = "#dedede", colour = "Black", binwidth = 1) +
