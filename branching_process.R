@@ -121,6 +121,11 @@ output_parameters<-function(conf.interval){
 output_parameters(90)
 output_parameters(95)
 
+#calculation of proportion of cases who do not spread to anyone 
+dnbinom(0, size = 0.33, mu = 0.74)
+dnbinom(0, size = 0.14, mu = 0.58)
+dnbinom(0, size = 0.98, mu = 0.97)
+
 
 ####Supplementary Wave analysis WAVE ONE
 
@@ -177,6 +182,12 @@ output_parameters<-function(conf.interval){
 
 output_parameters(90)
 output_parameters(95)
+
+#calculation of proportion of cases who do not spread to anyone (wave 1) 
+dnbinom(0, size = 2.31, mu = 0.66)
+dnbinom(0, size = 0.22, mu = 0.44)
+dnbinom(0, size = Inf, mu = 0.99)
+
 
 ####WAVE TWO
 
@@ -235,3 +246,9 @@ output_parameters<-function(conf.interval){
 
 output_parameters(90)
 output_parameters(95)
+
+
+#calculation of proportion of cases who do not spread to anyone (wave 2)
+dnbinom(0, size = 0.2, mu = 0.77)
+dnbinom(0, size = 0.08, mu = 0.54)
+dnbinom(0, size = 0.63, mu = 1.13)
