@@ -100,8 +100,13 @@ nbfit_boot_2 <- summary(bootdist(nbfit_2))
 
 
 #calculation of proportion of cases who do not spread to anyone from fit 1 and fit 2
-dnbinom(0, size = nbfit_1$estimate[[1]], mu = nbfit_1$estimate[[2]])
-dnbinom(0, size = nbfit_2$estimate[[1]], mu = nbfit_2$estimate[[2]])
+dnbinom(0, size = 0.3511851, mu = 0.6170447)
+dnbinom(0, size = 0.2494476, mu = 0.4720252)
+dnbinom(0, size = 0.5296645, mu = 0.7753710)
+
+dnbinom(0, size = 0.1852538, mu = 0.7214719)
+dnbinom(0, size = 0.1342745, mu = 0.5286102)
+dnbinom(0, size = 0.2570040, mu = 0.9408714)
 
 
 ###NEGATIVE BINOMIAL MODEL OF HYPOTHETICAL TRANSMISSION PAIRS by EXPOSURES
