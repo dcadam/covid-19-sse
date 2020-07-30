@@ -99,6 +99,11 @@ summary(nbfit_2)
 nbfit_boot_2 <- summary(bootdist(nbfit_2))
 
 
+#calculation of proportion of cases who do not spread to anyone from fit 1 and fit 2
+dnbinom(0, size = nbfit_1$estimate[[1]], mu = nbfit_1$estimate[[2]])
+dnbinom(0, size = nbfit_2$estimate[[1]], mu = nbfit_2$estimate[[2]])
+
+
 ###NEGATIVE BINOMIAL MODEL OF HYPOTHETICAL TRANSMISSION PAIRS by EXPOSURES
 #calculate means number of secondary cases for additional scenario one pairs
 hypothetical_pairs %>%
