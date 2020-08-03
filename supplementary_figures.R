@@ -30,6 +30,17 @@ case_data %>%
   theme_classic() +
   theme(aspect.ratio = 0.3, legend.position = "NULL", axis.text.x = element_text(angle = 45, hjust = 1))
 
+
+##Stats for Supplementary Figure 1
+case_data %>%
+  filter(cluster.id != 0) %>%
+  group_by(cluster.id) %>%
+  mutate(cluster.size = n()) %>%
+  arrange(epi.date) %>%
+  slice(1L) %>%
+  lm(as.numeric(epi.date) ~ cluster.size, data = .) %>%
+  summary()
+
 #Supplementary Table 1 
 
 #Descriptive Cluster analysis
