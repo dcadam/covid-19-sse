@@ -89,46 +89,4 @@ ggplot() +
   theme(aspect.ratio = 1)
 
 
-###NEGATIVE BINOMIAL REGRESSION ANALYSISI OF TRANSMISSION PAIRS BY EXPOSURE SETTING
-library(MASS)
-
-#Compare family and social setting exposures. 
-transmission_pairs %>%
-  filter(cluster.risk != "travel",
-         cluster.risk != "work") %>%
-  group_by(infector.case, cluster.risk) %>%
-  count() %>%
-  glm.nb(.$n ~ .$cluster.risk, data = .) %>%
-  summary()
-
-
-#Compare work and social setting exposures. 
-transmission_pairs %>%
-  filter(cluster.risk != "travel",
-         cluster.risk != "family") %>%
-  group_by(infector.case, cluster.risk) %>%
-  count() %>%
-  glm.nb(.$n ~ .$cluster.risk, data = .) %>%
-  summary()
-
-#compare work and family
-transmission_pairs %>%
-  filter(cluster.risk != "travel",
-         cluster.risk != "social") %>%
-  group_by(infector.case, cluster.risk) %>%
-  count() %>%
-  glm.nb(.$n ~ .$cluster.risk, data = .) %>%
-  summary()
-
-#calculate means for resolved pairs
-transmission_pairs %>%
-  filter(cluster.risk != "travel") %>%
-  group_by(infector.case, cluster.risk) %>%
-  count() %>%
-  ungroup() %>%
-  group_by(cluster.risk) %>%
-  summarise(n = mean(n))
-
-
-
 
