@@ -109,45 +109,5 @@ dnbinom(0, size = 0.1342745, mu = 0.5286102)
 dnbinom(0, size = 0.2570040, mu = 0.9408714)
 
 
-###NEGATIVE BINOMIAL MODEL OF HYPOTHETICAL TRANSMISSION PAIRS by EXPOSURES
-#calculate means number of secondary cases for additional scenario one pairs
-hypothetical_pairs %>%
-  filter(cluster.risk != "travel") %>%
-  filter(cluster.id != 77.2) %>%
-  group_by(infector.case, cluster.risk) %>%
-  count() %>%
-  ungroup() %>%
-  group_by(cluster.risk) %>%
-  summarise(n = mean(n))
-
-##negative binomial analsysi for scenario one social vs family
-hypothetical_pairs %>%
-  filter(cluster.risk != "travel",
-         cluster.risk != "work") %>%
-  filter(cluster.id != 77.2) %>%
-  group_by(infector.case, cluster.risk) %>%
-  count() %>%
-  glm.nb(.$n ~ .$cluster.risk, data = .) %>%
-  summary()
-
-#calculate means number of secondary cases for additional scenario two pairs
-hypothetical_pairs %>%
-  filter(cluster.risk != "travel") %>%
-  group_by(infector.case, cluster.risk) %>%
-  count() %>%
-  ungroup() %>%
-  group_by(cluster.risk) %>%
-  summarise(n = mean(n))
-
-##negative binomial analsysi for scenario one social vs family
-hypothetical_pairs %>%
-  filter(cluster.risk != "travel",
-         cluster.risk != "work") %>%
-  group_by(infector.case, cluster.risk) %>%
-  count() %>%
-  glm.nb(.$n ~ .$cluster.risk, data = .) %>%
-  summary()
-
-
 
 
