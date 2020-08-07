@@ -40,7 +40,7 @@ propresponsible(0.73,0.82,0.8)
 #Branching Process p80% Wave 1
 propresponsible(0.66,2.31,0.8)
 propresponsible(0.44,0.22,0.8)
-propresponsible(0.99,Inf,0.8)
+propresponsible(0.99,1*10^100,0.8)
 
 #Branching Process p80% Wave2
 propresponsible(0.77,0.20,0.8)
