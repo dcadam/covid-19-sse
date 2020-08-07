@@ -12,7 +12,7 @@ case_data <- case_data %>%
          confirm.date = dmy(confirm.date),
          epi.date = dmy(epi.date))
 
-#Figure 4A
+#Figure 4A - figures combined and colours customised in post
 case_data %>%
   filter(cluster.id != 0) %>%
   mutate(delay = as.numeric(confirm.date - onset.date, na.rm = T)) %>%
@@ -20,7 +20,7 @@ case_data %>%
   ggplot() +
   geom_histogram(aes(x = delay, y = ..density..),  fill = '#dedede', colour = "black", binwidth = 1) +
   scale_y_continuous("Frequency", expand = c(0,0), limits = c(0,0.16)) + 
-  scale_x_continuous("Delay from onset-to-isolation (days)", expand = c(0,0), breaks = seq(0,30, by = 3)) +
+  scale_x_continuous("Delay from onset-to-confirmation (days)", expand = c(0,0), breaks = seq(0,30, by = 3)) +
   theme_classic() +
   theme(aspect.ratio = 0.3, legend.position = 'none')
 
@@ -37,7 +37,7 @@ case_data %>%
   geom_boxplot(aes(x=n, y=delay), fill = "#dedede") +
   theme_classic() +
   theme(aspect.ratio=1) +
-  scale_y_continuous("Delay from onset-to-isolation (days)", limits = c(0, 30), expand = c(0,0), breaks = seq(0,30, by = 3)) +
+  scale_y_continuous("Delay from onset-to-confirmation (days)", limits = c(0, 30), expand = c(0,0), breaks = seq(0,30, by = 3)) +
   xlab("Cluster size (n)") +
   coord_flip()
 
@@ -63,7 +63,7 @@ transmission_pairs %>%
   geom_smooth(method = lm, aes(x=delay, y = n), color = "black", alpha = 0.1, size = 0.7) +
   geom_jitter(aes(x = delay, y = n, colour = cluster.risk), height = 0.3, width = 0.3) +
   scale_y_continuous("Secondary Cases / Index", breaks = 1:11) +
-  scale_x_continuous("Delay from onset-to-isolation of index (days)", 
+  scale_x_continuous("Delay from onset-to-confirmation of index (days)", 
                      expand = c(0,0),                     
                      limits = c(0,27), breaks = seq(0,27, by = 3)) +
   theme_classic() +
