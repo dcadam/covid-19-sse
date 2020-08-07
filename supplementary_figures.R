@@ -15,7 +15,7 @@ case_data <- case_data %>%
          confirm.date = dmy(confirm.date),
          epi.date = dmy(epi.date))
 
-#Supplementary Figure 1 excluding N=106 outlier
+#Supplementary Figure 1 excluding N=106 outlier edited in post
 case_data %>%
   filter(cluster.id != 0) %>%
   group_by(cluster.id) %>%
@@ -23,9 +23,9 @@ case_data %>%
   arrange(epi.date) %>%
   slice(1L) %>%
   ggplot() +
-  geom_jitter(aes(x = epi.date, y = cluster.size), alpha = 0.8, size = 2, shape = 21) +
+  geom_jitter(aes(x = epi.date, y = cluster.size), alpha = 0.8, size = 2, shape = 21, width = 0, height = 0.8) +
   geom_smooth(method = lm, aes(x = epi.date, y = cluster.size), se = T, size = 0.5, colour = "black", alpha = 0.2) + 
-  scale_x_date("Cluster index date by onset", date_breaks = "2 days", date_labels = "%d %b", minor_breaks = NULL) +
+  scale_x_date("Cluster index date by onset", date_breaks = "1 week", date_labels = "%d %b", minor_breaks = NULL) +
   scale_y_continuous("Final cluster size", expand = c(0,0), limits = c(0,25)) +
   theme_classic() +
   theme(aspect.ratio = 0.3, legend.position = "NULL", axis.text.x = element_text(angle = 45, hjust = 1))
@@ -117,7 +117,7 @@ ggplot(data = case_data) +
   labs(x="Illness Onset Date") +
   theme_classic() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1), legend.position = 'none') +
-  scale_x_date(date_breaks = "2 days", 
+  scale_x_date(date_breaks = "1 week", 
                date_labels = "%d %b", 
                minor_breaks = NULL) +
   scale_y_continuous("Daily SARS-CoV-2 Infections in Hong Kong (N)", expand = c(0,0), limits = c(0,50)) +
@@ -297,7 +297,7 @@ transmission_pairs %>%
   ggplot() +
   geom_bar(aes(x = infector.epi.date, y = n), stat = 'identity', fill = "#dedede", color = "black", size = 0.3) +
   scale_x_date("Index Illness Onset Date",
-               date_breaks = "3 days", 
+               date_breaks = "1 week", 
                date_labels = "%d %b", 
                minor_breaks = NULL) +
   scale_y_continuous("Secondary Cases / Day", expand = c(0,0), limits = c(0,20)) +
