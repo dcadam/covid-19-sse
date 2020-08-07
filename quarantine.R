@@ -24,42 +24,6 @@ complete_pairs <- transmission_pairs %>%
   full_join(., wedding_cluster) %>%
   full_join(., bar_cluster)
 
-##Compelte network picture
-nodes <- enframe(c(complete_pairs$from, complete_pairs$to)) %>%
-  dplyr::select(value) %>%
-  distinct() %>%
-  transmute(id = value,
-            label = value,
-            to = value) %>%
-  left_join(., complete_pairs, by = "to") %>%
-  dplyr::select(id, label, cluster.risk) %>%
-  mutate(color = case_when(id == 'NA' ~ '#b43b15',
-                           cluster.risk == 'social' ~ '#fbbf28',
-                           cluster.risk == 'family' ~ '#2e7d80',
-                           cluster.risk == 'work' ~ '#f56890',
-                           cluster.risk == 'travel' ~ '#70a494',
-                           TRUE ~ '#b43b15')) %>%
-  distinct()
-
-
-#generate edges for plotting
-network <- complete_pairs %>%
-  mutate(source = from, target = to) %>%
-  dplyr::select(source, target) %>%
-  as.data.frame() %>%
-  graph_from_data_frame()
-
-#recode network parameters extracting data from line-listed nodes
-V(network)$color <- nodes %>% pull(color)
-V(network)$size <- 4
-V(network)$frame.color <- "black"
-V(network)$shape <- nodes %>% pull(shape)
-
-#Plot temple cluster
-plot(network, 
-     edge.arrow.size=.05,
-     vertex.label = NA, 
-     layout=layout_with_fr)
 
 ###ENCODE CASE POSITIONS WITHIN THE ENTIRE NETWORK AS SOURCE, INTERMEDIATE, OR TERMINAL
 infectee <- complete_pairs %>%
