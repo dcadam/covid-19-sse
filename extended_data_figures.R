@@ -15,7 +15,7 @@ case_data <- case_data %>%
          confirm.date = dmy(confirm.date),
          epi.date = dmy(epi.date))
 
-#Supplementary Figure 1 excluding N=106 outlier edited in post
+#Extended Data Figure 1 excluding N=106 outlier edited in post
 case_data %>%
   filter(cluster.id != 0) %>%
   group_by(cluster.id) %>%
@@ -31,7 +31,7 @@ case_data %>%
   theme(aspect.ratio = 0.3, legend.position = "NULL", axis.text.x = element_text(angle = 45, hjust = 1))
 
 
-##Stats for Supplementary Figure 1
+##Stats for Extended Data Figure 1
 case_data %>%
   filter(cluster.id != 0) %>%
   group_by(cluster.id) %>%
@@ -41,77 +41,8 @@ case_data %>%
   lm(as.numeric(epi.date) ~ cluster.size, data = .) %>%
   summary()
 
-#Supplementary Table 1 
 
-#Descriptive Cluster analysis
-case_data %>%
-  group_by(cluster.category) %>%
-  summarise(n = n(), pct = n/1038)
-
-#find overseas cluster values
-case_data %>%
-  filter(cluster.category == "Cluster of imported cases") %>%
-  group_by(cluster.id) %>%
-  n_groups()
-
-case_data %>%
-  filter(cluster.category == "Cluster of imported cases") %>%
-  group_by(cluster.id) %>%
-  group_size() %>%
-  median()
-
-case_data %>%
-  filter(cluster.category == "Cluster of imported cases") %>%
-  group_by(cluster.id) %>%
-  group_size() %>%
-  range()
-
-
-#find local cluster values
-case_data %>%
-  filter(cluster.category == "Cluster initiated by local case") %>%
-  group_by(cluster.id) %>%
-  n_groups()
-
-case_data %>%
-  filter(cluster.category == "Cluster initiated by local case") %>%
-  group_by(cluster.id) %>%
-  group_size() %>%
-  median()
-
-case_data %>%
-  filter(cluster.category == "Cluster initiated by local case") %>%
-  group_by(cluster.id) %>%
-  group_size() %>%
-  range()
-
-#find imported cluster values
-case_data %>%
-  filter(cluster.category == "Cluster initiated by imported case") %>%
-  group_by(cluster.id) %>%
-  n_groups()
-
-case_data %>%
-  filter(cluster.category == "Cluster initiated by imported case") %>%
-  group_by(cluster.id) %>%
-  group_size() %>%
-  median()
-
-case_data %>%
-  filter(cluster.category == "Cluster initiated by imported case") %>%
-  group_by(cluster.id) %>%
-  group_size() %>%
-  range()
-
-
-
-#asymptomatic contigency table (Supplementary Table 2)
-case_data %>%
-  group_by(cluster.category, symptomatic) %>%
-  summarise(n = n()) %>%
-  spread(key = symptomatic, value = n)
-
-#Supplementary Figure 2
+#Extended Data Figure 2
 ggplot(data = case_data) +
   geom_histogram(aes(x = epi.date, fill = fct_rev(symptomatic)), colour = 'black', binwidth = 1, alpha = 0.9) +
   labs(x="Illness Onset Date") +
@@ -123,7 +54,7 @@ ggplot(data = case_data) +
   scale_y_continuous("Daily SARS-CoV-2 Infections in Hong Kong (N)", expand = c(0,0), limits = c(0,50)) +
   scale_fill_grey(start = 0.9, end = 0.6)
 
-#####Supplementary Figure 3
+#####Extended Data Figure 3
 #Figure 3A
 ggplot(data=age_transmission_pairs) +
   geom_bar(aes(x = agegroup, fill = transmission), color = "black", position = position_dodge2(preserve = "single")) +
@@ -132,7 +63,7 @@ ggplot(data=age_transmission_pairs) +
                      labels = c("0-4","5-9","10-14","15-19","20-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64","65-69","70-74","75-79","80-84","85+")) +
   scale_y_continuous(name = "Frequency", expand = c(0,0)) +
   labs(fill = "Pair") +
-  theme(aspect.ratio = 1, legend.position = "none", axis.text.x = element_text(angle = 90)) +
+  theme(aspect.ratio = 1, legend.position = c(0.95, 0.95), legend.title = element_blank(), axis.text.x = element_text(angle = 90)) +
   scale_fill_grey()
 
 #Figure 3B (missing age for 1 case responsible for 11 secondary cases)
@@ -155,7 +86,7 @@ age_transmission_pairs %>%
 summary(lm(agegroup.infector ~ agegroup.infectee, data = transmission_pairs))
 
 
-###Supplementary figure 4 and supplementary table 4 (wave 1 wave 2)
+###Extended Data figure 4 and supplementary table 4 (wave 1 wave 2)
 ## WAVE ONE
 #count number of offspring per individual infector for wave one before march first
 offspring_w1 <- transmission_pairs %>%
@@ -199,21 +130,18 @@ nbfit_w1 <- complete_offspringd_w1 %>%
   pull(value) %>%
   fitdist(., distr = 'nbinom')
 
-#bootstrap analysis for wave one (Supplementary Table 4)
-nbfit_boot_w1 <- summary(bootdist(nbfit_w1)) 
-
 #calculation of proportion of cases who do not spread to anyone from nbfit and nbfit_boot of wave 1
 dnbinom(0, size = 0.3981823, mu = 0.6064477)
 dnbinom(0, size = 0.2071336, mu = 0.3838060)
 dnbinom(0, size = 0.9461882, mu = 0.8586690)
 
-#Plot Supplementray Figure 4A
+#Plot Extended Data Figure 4A
 ggplot() +
   geom_histogram(aes(x=complete_offspringd_w1$value, y = ..density..), fill = "#dedede", colour = "Black", binwidth = 1) +
   geom_point(aes(x = 0:11, y = dnbinom(x = 0:11, size = nbfit_w1$estimate[[1]], mu = nbfit_w1$estimate[[2]])), size = 1.5) +
   stat_smooth(aes(x = 0:11, y = dnbinom(x = 0:11, size = nbfit_w1$estimate[[1]], mu = nbfit_w1$estimate[[2]])), method = 'lm', formula = y ~ poly(x, 9), se = FALSE, size = 0.5, colour = 'black') +
   expand_limits(x = 0, y = 0) +
-  scale_x_continuous("Wave 1 Secondary Cases / Index", expand = c(0, 0), breaks = 0:11)  +
+  scale_x_continuous("Epoch 1 Secondary Cases / Infector", expand = c(0, 0), breaks = 0:11)  +
   scale_y_continuous("Proportion",limits = c(0,0.8),expand = c(0, 0)) +
   theme_classic() +
   theme(aspect.ratio = 1)
@@ -262,26 +190,23 @@ nbfit_w2 <- complete_offspringd_w2 %>%
   pull(value) %>%
   fitdist(., distr = 'nbinom')
 
-#bootstrap analysis for wave two
-nbfit_boot_w2 <- summary(bootdist(nbfit_w2))
-
 #calculation of proportion of cases who do not spread to anyone from nbfit and nbfit_boot of wave 2
 dnbinom(0, size = 0.4425313, mu = 0.5705630)
 dnbinom(0, size = 0.2731069, mu = 0.4240127)
 dnbinom(0, size = 0.8230628, mu = 0.7329678)
 
-#Plot Supplementary Figure 4B
+#Plot Extended Data Figure 4B
 ggplot() +
   geom_histogram(aes(x=complete_offspringd_w2$value, y = ..density..), fill = "#dedede", colour = "Black", binwidth = 1) +
   geom_point(aes(x = 0:11, y = dnbinom(x = 0:11, size = nbfit_w2$estimate[[1]], mu = nbfit_w1$estimate[[2]])), size = 1.5) +
   stat_smooth(aes(x = 0:11, y = dnbinom(x = 0:11, size = nbfit_w2$estimate[[1]], mu = nbfit_w1$estimate[[2]])), method = 'lm', formula = y ~ poly(x, 9), se = FALSE, size = 0.5, colour = 'black') +
   expand_limits(x = 0, y = 0) +
-  scale_x_continuous("Wave 2 Secondary Cases / Index", expand = c(0, 0), breaks = 0:11)  +
+  scale_x_continuous("Epoch 2 Secondary Cases / Infector", expand = c(0, 0), breaks = 0:11)  +
   scale_y_continuous("Proportion",limits = c(0,0.8),expand = c(0, 0)) +
   theme_classic() +
   theme(aspect.ratio = 1)
 
-#SUPPLEMENTARY FIGURE 5
+#Extended Data Figure 5
 offspring <- transmission_pairs %>%
   dplyr::select(infector.case) %>%
   group_by(infector.case) %>%
@@ -296,7 +221,7 @@ transmission_pairs %>%
   mutate(infector.epi.date = dmy(infector.epi.date)) %>%
   ggplot() +
   geom_bar(aes(x = infector.epi.date, y = n), stat = 'identity', fill = "#dedede", color = "black", size = 0.3) +
-  scale_x_date("Index Illness Onset Date",
+  scale_x_date("Infector Illness Onset Date",
                date_breaks = "1 week", 
                date_labels = "%d %b", 
                minor_breaks = NULL) +
@@ -415,7 +340,7 @@ ggplot() +
   geom_point(aes(x = 0:11, y = dpois(x = 0:11, lambda = pfit$estimate[[1]])), color = 'black', size = 2, shape = 'square') +
   stat_smooth(aes(x = 0:11, y = dpois(x = 0:11, lambda = pfit$estimate[[1]])), method = 'lm', formula = y ~ poly(x, 9), se = FALSE, colour = 'black', size = 0.8, linetype = 3) +
   expand_limits(x = 0, y = 0) +
-  scale_x_continuous("Secondary Cases / Index", expand = c(0, 0), breaks = 0:11)  +
+  scale_x_continuous("Secondary Cases / Infector", expand = c(0, 0), breaks = 0:11)  +
   scale_y_continuous("Density", limits = c(0,0.7), expand = c(0, 0)) +
   theme_classic() +
   theme(aspect.ratio = 1)
@@ -515,8 +440,7 @@ nbfit_boot_w2$estim %>%
   scale_y_continuous("Sampling distribution", expand = c(0,0), limits = c(0,400))
 
 
-###SUPPLEMENTARY FIGURE 9
-
+###Extended Data Figure 9
 
 ##Figure 9A
 bar_data %>%
@@ -582,6 +506,3 @@ bar_data %>%
   theme_classic() +
   theme(legend.position = 'none', panel.grid.major.y = element_line(colour = 'grey')) +
   scale_color_viridis_d()
-
-##Results for Supplementary Tables 6 & 7 in respective files hypothetical analysis and quarantine.
-
