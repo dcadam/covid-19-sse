@@ -31,11 +31,10 @@ kruskal_test(age ~ cluster.risk, data = secondary_cases)
 wilcox_test(age ~ cluster.risk, data = secondary_cases)
 chisq_test(x = secondary_cases$male, y = secondary_cases$cluster.risk)
 
-#three Poisson models for the number of secondary cases by transmission setting (cluster.risk) including age and sex
-
+#three models for the number of secondary cases by transmission setting (cluster.risk) including age and sex
 m1 <- glm.nb(secondary.cases ~ cluster.risk + age + male, data = secondary_cases)
-m2 <- glm.nb(secondary.cases ~ cluster.risk + age, data = secondary_cases, family)
-m3 <- glm.nb(secondary.cases ~ cluster.risk, data = secondary_cases, family)
+m2 <- glm.nb(secondary.cases ~ cluster.risk + age, data = secondary_cases)
+m3 <- glm.nb(secondary.cases ~ cluster.risk, data = secondary_cases)
 
 summary(m1)
 summary(m2)

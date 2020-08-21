@@ -81,6 +81,18 @@ transmission_pairs %>%
   theme(aspect.ratio = 1, legend.position = c(0.85, 0.85), legend.title = element_blank())  #colours are modified custom in post 
 
 
+transmission_pairs %>%  
+  group_by(infector.case, cluster.risk) %>%
+  summarise(n = n(), delay = mean(delay.infector)) %>%
+  filter(!is.na(delay)) %>%
+  ungroup() %>%
+  group_by(infector.case) %>%
+  count() %>%
+  arrange(desc(n))
+  lm(delay ~ n, data = .) %>%
+  summary()
+
+
 #####Calculate delay stats
 ##median delay across all local clusters
 case_data %>%
@@ -102,7 +114,7 @@ case_data %>%
   ungroup() %>%
   filter(!is.na(delay)) %>%
   group_by(n) %>%
-  summarise(m.delay = median(delay)) %>%
+  summarise(m.delay = median(delay))
   filter(n < 22) %>%
   lm(n ~ m.delay, data = .) %>%
   summary()

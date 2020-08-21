@@ -114,8 +114,67 @@ gfit_boot <- summary(bootdist(gfit))
 wfit_boot <- summary(bootdist(wfit))
 lgfit_boot <- summary(bootdist(lgfit))
 
-
 #SUPPLEMENTARY TABLE 4
+#count number of offspring per individual infector
+offspring <- transmission_pairs %>%
+  dplyr::select(infector.case) %>%
+  group_by(infector.case) %>%
+  count() %>%
+  arrange(desc(n))
+
+#count number of terminal infectees including sporadic local cases
+infectee <- transmission_pairs %>%
+  dplyr::select(infector.case, infectee.case) %>%
+  gather() %>%
+  filter(key == 'infectee.case')
+
+infector <-  transmission_pairs %>%
+  dplyr::select(infector.case, infectee.case) %>%
+  gather() %>%
+  filter(key == 'infector.case')
+
+duplicate <- infector %>%
+  left_join(., infectee, by = 'value') %>%
+  filter(key.y != 'NA') %>%
+  dplyr::select(value) %>%
+  distinct()
+
+nterminal_infectees <- infectee %>% 
+  dplyr::select(value) %>%
+  filter(!value %in% duplicate$value) %>%
+  transmute(case.no = as.numeric(value)) %>%
+  nrow() + 46 #46 Sporadic Local cases without links to additional transmission
+
+#create vector of complete offspring distribution with terminal cases having zero secondary cases
+complete_offspringd <- enframe(c(offspring$n, rep(0,nterminal_infectees)))
+
+#fit  distriubtions by maximum likelihood
+
+nbfit <- complete_offspringd %>%
+  pull(value) %>%
+  fitdist(., distr = 'nbinom')
+
+gefit <- complete_offspringd %>%
+  pull(value) %>%
+  fitdist(., distr = 'geom')
+
+pfit <- complete_offspringd %>%
+  pull(value) %>%
+  fitdist(., distr = 'pois')
+
+summary(nbfit)
+summary(gefit)
+summary(pfit)
+
+#bootsprapped analysis
+nbfit_boot <- summary(bootdist(nbfit))
+gefit_boot <- summary(bootdist(gefit))
+pfit_boot <- summary(bootdist(pfit))
+
+
+
+
+#SUPPLEMENTARY TABLE 5
 #count number of offspring per individual infector for wave one before pre march
 offspring_w1 <- transmission_pairs %>%
   dplyr::select(infector.case, infector.epi.date) %>%
@@ -413,67 +472,7 @@ dnbinom(0, size = 0.1342745, mu = 0.5286102)
 dnbinom(0, size = 0.2570040, mu = 0.9408714)
 
 
-#SUPPLEMENTARY TABLE 5
-#count number of offspring per individual infector
-offspring <- transmission_pairs %>%
-  dplyr::select(infector.case) %>%
-  group_by(infector.case) %>%
-  count() %>%
-  arrange(desc(n))
-
-#count number of terminal infectees including sporadic local cases
-infectee <- transmission_pairs %>%
-  dplyr::select(infector.case, infectee.case) %>%
-  gather() %>%
-  filter(key == 'infectee.case')
-
-infector <-  transmission_pairs %>%
-  dplyr::select(infector.case, infectee.case) %>%
-  gather() %>%
-  filter(key == 'infector.case')
-
-duplicate <- infector %>%
-  left_join(., infectee, by = 'value') %>%
-  filter(key.y != 'NA') %>%
-  dplyr::select(value) %>%
-  distinct()
-
-nterminal_infectees <- infectee %>% 
-  dplyr::select(value) %>%
-  filter(!value %in% duplicate$value) %>%
-  transmute(case.no = as.numeric(value)) %>%
-  nrow() + 46 #46 Sporadic Local cases without links to additional transmission
-
-#create vector of complete offspring distribution with terminal cases having zero secondary cases
-complete_offspringd <- enframe(c(offspring$n, rep(0,nterminal_infectees)))
-
-#fit  distriubtions by maximum likelihood
-
-nbfit <- complete_offspringd %>%
-  pull(value) %>%
-  fitdist(., distr = 'nbinom')
-
-gefit <- complete_offspringd %>%
-  pull(value) %>%
-  fitdist(., distr = 'geom')
-
-pfit <- complete_offspringd %>%
-  pull(value) %>%
-  fitdist(., distr = 'pois')
-
-summary(nbfit)
-summary(gefit)
-summary(pfit)
-
-#bootsprapped analysis
-nbfit_boot <- summary(bootdist(nbfit))
-gefit_boot <- summary(bootdist(gefit))
-pfit_boot <- summary(bootdist(pfit))
-
-
 #SUPPLEMENTARY TABLE 6
-
-
 quarantine_list <-  case_data %>%
   dplyr::select(case.no, quarantine) %>%
   mutate(id = as.character(case.no)) %>%

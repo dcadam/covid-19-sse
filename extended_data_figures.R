@@ -6,6 +6,7 @@ library(viridis)
 #import data
 case_data <- read_csv(file = "data/case_data.csv")
 age_transmission_pairs <- read_csv(file = "data/age_pairs.csv")
+sex_transmission_pairs <- read_csv(file = "data/sex_transmission_pairs.csv")
 transmission_pairs <- read_csv(file = "data/transmission_pairs.csv")
 bar_data <- read_csv("data/bar_data.csv")
 
@@ -85,6 +86,7 @@ age_transmission_pairs %>%
 
 summary(lm(agegroup.infector ~ agegroup.infectee, data = transmission_pairs))
 
+chisq_test(x = sex_transmission_pairs$male, y = sex_transmission_pairs$transmission)
 
 ###Extended Data figure 4 and supplementary table 4 (wave 1 wave 2)
 ## WAVE ONE
