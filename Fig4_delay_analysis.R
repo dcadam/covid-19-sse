@@ -9,7 +9,7 @@ transmission_pairs <- read_csv(file = "data/transmission_pairs.csv")
 case_data <- case_data %>%
   mutate(onset.date = dmy(onset.date),
          confirm.date = dmy(confirm.date),
-         epi.date = dmy(epi.date))x
+         epi.date = dmy(epi.date))
 
 #Figure 4A - figures combined and colours customised in post
 case_data %>%
@@ -80,19 +80,6 @@ transmission_pairs %>%
   theme_classic() +
   theme(aspect.ratio = 1, legend.position = c(0.85, 0.85), legend.title = element_blank())  #colours are modified custom in post 
 
-
-transmission_pairs %>%  
-  group_by(infector.case, cluster.risk) %>%
-  summarise(n = n(), delay = mean(delay.infector)) %>%
-  filter(!is.na(delay)) %>%
-  ungroup() %>%
-  group_by(infector.case) %>%
-  count() %>%
-  arrange(desc(n))
-  lm(delay ~ n, data = .) %>%
-  summary()
-
-
 #####Calculate delay stats
 ##median delay across all local clusters
 case_data %>%
@@ -103,7 +90,7 @@ case_data %>%
   pull(delay) %>%
   median()
 
-#Relationship between median delay within clusters and cluster size
+#Relationship between median delay within clusters and cluster size (excluding two largest)
 case_data %>%
   filter(cluster.id != 0, 
          cluster.category != "Cluster of imported cases") %>%
@@ -114,7 +101,7 @@ case_data %>%
   ungroup() %>%
   filter(!is.na(delay)) %>%
   group_by(n) %>%
-  summarise(m.delay = median(delay))
+  summarise(m.delay = median(delay)) %>%
   filter(n < 22) %>%
   lm(n ~ m.delay, data = .) %>%
   summary()
@@ -127,7 +114,7 @@ transmission_pairs %>%
   pull(delay) %>%
   median()
 
-#relastionship between delay in confirmation of infectors and number of secondary cases
+#relationship between delay in confirmation of infectors and number of secondary cases
 transmission_pairs %>%
   group_by(infector.case, cluster.risk) %>%
   summarise(n = n(), delay = median(delay.infector)) %>%
@@ -135,7 +122,6 @@ transmission_pairs %>%
   arrange(desc(n)) %>%
   lm(n ~ delay, data = .) %>%
   summary()
-
 
 
 
