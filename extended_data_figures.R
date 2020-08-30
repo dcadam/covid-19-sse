@@ -122,6 +122,12 @@ bar_data %>%
   scale_color_viridis_d()
 
 ####EXTENDED DATA FIGURE 4 
+#fit normal distribution to serial intervals
+nfit <- transmission_pairs %>%
+  filter(onset.diff != 'NA') %>%
+  pull(onset.diff) %>%
+  fitdist(data = ., distr = 'norm')
+
 #fit lognormal distribution by maximum likeihood
 lgfit <- transmission_pairs %>%
   filter(onset.diff != 'NA', 
@@ -143,24 +149,24 @@ wfit <- transmission_pairs %>%
   pull(onset.diff) %>%
   fitdist(data = ., distr = 'weibull')
 
+summary(nfit)
 summary(lgfit)
 summary(gfit)
 summary(wfit)
 
 #bootstrapped analysis
+
+nfit_boot <- summary(bootdist(nfit))
 gfit_boot <- summary(bootdist(gfit))
 wfit_boot <- summary(bootdist(wfit))
 lgfit_boot <- summary(bootdist(lgfit))
 
 #Extended Data Figure 4A
-transmission_pairs %>%
-  filter(!is.na(onset.diff)) %>%
-  ggplot() +
-  geom_histogram(aes(x = onset.diff, y = ..density..), fill = '#dedede', colour = "black", binwidth = 1) +
-  stat_function(fun = dgamma, args = list(shape = gfit$estimate[[1]], rate = gfit$estimate[[2]]), size = 0.8, linetype = 1) +
-  stat_function(fun = dweibull, args = list(shape = wfit$estimate[[1]], scale = wfit$estimate[[2]]), size = 0.8, linetype = 2) +
-  stat_function(fun = dlnorm, args = list(meanlog = lgfit$estimate[[1]], sdlog = lgfit$estimate[[2]]), size = 0.8, linetype = 3) +
-  scale_x_continuous("Serial Interval (Days)") +
+#Plot serial interval with normal distribution (Figure 2A)
+ggplot(data = transmission_pairs) +
+  geom_histogram(aes(x = onset.diff, y = ..density..), fill = '#dedede', colour = "black", binwidth = 1) + 
+  stat_function(fun = dnorm, args = list(mean = nfit$estimate[[1]], sd = nfit$estimate[[2]]), size = 0.8, linetype = 2) +
+  scale_x_continuous("Serial Interval (Days)", limits = c(-10,30), breaks = seq(-10, 30, by =5), expand = c(0,0)) +
   scale_y_continuous("Proportion", expand = c(0,0), limits = c(0,0.20)) +
   theme_classic() +
   theme(aspect.ratio = 1)
@@ -200,7 +206,6 @@ nterminal_infectees <- infectee %>%
 complete_offspringd <- enframe(c(offspring$n, rep(0,nterminal_infectees)))
 
 #fit  distriubtions by maximum likelihood
-
 nbfit <- complete_offspringd %>%
   pull(value) %>%
   fitdist(., distr = 'nbinom')
@@ -224,16 +229,19 @@ pfit_boot <- summary(bootdist(pfit))
 
 #Figure 4B
 ggplot() +
-  geom_histogram(aes(x=complete_offspringd$value, y = ..density..), fill = "#dedede", colour = "black", binwidth = 1) +
-  geom_point(aes(x = 0:11, y = dgeom(x = 0:11, prob = gefit$estimate[[1]])), color = 'black', size = 2, shape = 'triangle') +
-  stat_smooth(aes(x = 0:11, y = dgeom(x = 0:11, prob = gefit$estimate[[1]])), method = 'lm', formula = y ~ poly(x, 9), se = FALSE, colour = 'black', size =0.8) +
-  geom_point(aes(x = 0:11, y = dpois(x = 0:11, lambda = pfit$estimate[[1]])), color = 'black', size = 2, shape = 'square') +
-  stat_smooth(aes(x = 0:11, y = dpois(x = 0:11, lambda = pfit$estimate[[1]])), method = 'lm', formula = y ~ poly(x, 9), se = FALSE, colour = 'black', size = 0.8, linetype = 3) +
+  geom_histogram(aes(x=complete_offspringd$value, y = ..density..), fill = "#dedede", colour = "Black", binwidth = 1) +
+  geom_point(aes(x = 0:11, y = dnbinom(x = 0:11, size = nbfit$estimate[[1]], mu = nbfit$estimate[[2]])), size = 1.5) +
+  stat_smooth(aes(x = 0:11, y = dnbinom(x = 0:11, size = nbfit$estimate[[1]], mu = nbfit$estimate[[2]])), method = 'lm', formula = y ~ poly(x, 9), se = FALSE, size = 0.5, colour = 'black') +
   expand_limits(x = 0, y = 0) +
-  scale_x_continuous("Secondary Cases / Infector", expand = c(0, 0), breaks = 0:11)  +
-  scale_y_continuous("Density", limits = c(0,0.7), expand = c(0, 0)) +
+  scale_x_continuous("Secondary cases per infector", expand = c(0, 0), breaks = 0:11)  +
+  scale_y_continuous("Proportion", limits = c(0,0.7), expand = c(0, 0)) +
   theme_classic() +
   theme(aspect.ratio = 1)
+
+#calculation of proportion of cases who do not spread to anyone from nbfit and nbfit_boot
+dnbinom(0, size = 0.4258355, mu = 0.5828315)
+dnbinom(0, size = 0.2869252, mu = 0.6694716)
+dnbinom(0, size = 0.4520273, mu = 0.7176502)
 
 #####Extended Data Figure 5
 #Figure 5A
