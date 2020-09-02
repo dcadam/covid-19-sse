@@ -171,6 +171,9 @@ nbfit_boot <- summary(bootdist(nbfit))
 gefit_boot <- summary(bootdist(gefit))
 pfit_boot <- summary(bootdist(pfit))
 
+
+
+
 #SUPPLEMENTARY TABLE 5
 #count number of offspring per individual infector for wave one before pre march
 offspring_w1 <- transmission_pairs %>%
@@ -467,18 +470,6 @@ dnbinom(0, size = 0.5296645, mu = 0.7753710)
 dnbinom(0, size = 0.1852538, mu = 0.7214719)
 dnbinom(0, size = 0.1342745, mu = 0.5286102)
 dnbinom(0, size = 0.2570040, mu = 0.9408714)
-
-#calculation of proportion of cases who do not spread to anyone from nbfit and nbfit_boot of wave 1
-dnbinom(0, size = 0.3981823, mu = 0.6064477)
-dnbinom(0, size = 0.2071336, mu = 0.3838060)
-dnbinom(0, size = 0.9461882, mu = 0.8586690)
-
-
-#calculation of proportion of cases who do not spread to anyone from nbfit and nbfit_boot of wave 2
-dnbinom(0, size = 0.4425313, mu = 0.5705630)
-dnbinom(0, size = 0.2731069, mu = 0.4240127)
-dnbinom(0, size = 0.8230628, mu = 0.7329678)
-
 
 
 #SUPPLEMENTARY TABLE 6
