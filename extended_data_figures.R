@@ -232,6 +232,7 @@ transmission_pairs %>%
   theme(aspect.ratio = 0.3, axis.text.x = element_text(angle = 45, hjust = 1))
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ####EXTENDED DATA FIGURE 4 
 #fit normal distribution to serial intervals
 nfit <- transmission_pairs %>%
@@ -239,6 +240,11 @@ nfit <- transmission_pairs %>%
   pull(onset.diff) %>%
   fitdist(data = ., distr = 'norm')
 
+=======
+
+####SUPPLEMENTARY FIGURE 6 & SUPPLEMENTARY TABLE 3 & 5
+###Supplementary Figure 6A and Table 3
+>>>>>>> parent of 64c2060... remove non-published supplementary figures
 =======
 
 ####SUPPLEMENTARY FIGURE 6 & SUPPLEMENTARY TABLE 3 & 5
@@ -278,6 +284,7 @@ wfit_boot <- summary(bootdist(wfit))
 lgfit_boot <- summary(bootdist(lgfit))
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Extended Data Figure 4A
 #Plot serial interval with normal distribution (Figure 2A)
 ggplot(data = transmission_pairs) +
@@ -285,6 +292,8 @@ ggplot(data = transmission_pairs) +
   stat_function(fun = dnorm, args = list(mean = nfit$estimate[[1]], sd = nfit$estimate[[2]]), size = 0.8, linetype = 2) +
   scale_x_continuous("Serial Interval (Days)", limits = c(-10,30), breaks = seq(-10, 30, by =5), expand = c(0,0)) +
 =======
+=======
+>>>>>>> parent of 64c2060... remove non-published supplementary figures
 #Supplementary Figure 6A
 transmission_pairs %>%
   filter(!is.na(onset.diff)) %>%
@@ -367,6 +376,7 @@ ggplot() +
   theme(aspect.ratio = 1)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #calculation of proportion of cases who do not spread to anyone from nbfit and nbfit_boot
 dnbinom(0, size = 0.4258355, mu = 0.5828315)
 dnbinom(0, size = 0.2869252, mu = 0.6694716)
@@ -377,6 +387,8 @@ dnbinom(0, size = 0.4520273, mu = 0.7176502)
 ggplot(data=age_transmission_pairs) +
   geom_bar(aes(x = agegroup, fill = transmission), color = "black", position = position_dodge2(preserve = "single")) +
 =======
+=======
+>>>>>>> parent of 64c2060... remove non-published supplementary figures
 ####Supplementary Figure 7 (dependant on negative binomial analysis above)
 
 #Plot joint estiamte of R and k (Figure 7A)
@@ -384,6 +396,9 @@ nbfit_boot$estim %>%
   as_tibble() %>%
   ggplot() +  
   geom_point(aes(x = size, y = mu), shape = 21, size = 2, alpha = 0.8) +
+<<<<<<< HEAD
+>>>>>>> parent of 64c2060... remove non-published supplementary figures
+=======
 >>>>>>> parent of 64c2060... remove non-published supplementary figures
   theme_classic() +
   theme(aspect.ratio = 1) +
@@ -471,8 +486,13 @@ nbfit_boot_w2$estim %>%
   theme(aspect.ratio = 1) +
   scale_x_continuous(expression(paste(italic("k"))), expand = c(0,0),limits = c(0,2.4), breaks = seq(0,2.4, by = 0.4)) +
   scale_y_continuous("Sampling distribution", expand = c(0,0), limits = c(0,400))
+<<<<<<< HEAD
 
 
+=======
+
+
+>>>>>>> parent of 64c2060... remove non-published supplementary figures
 ###Extended Data Figure 9
 
 ##Figure 9A
