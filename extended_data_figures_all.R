@@ -2,6 +2,7 @@ library(tidyverse)
 library(lubridate)
 library(fitdistrplus)
 library(viridis)
+library(rstatix)
 
 #import data
 case_data <- read_csv(file = "data/case_data.csv")
@@ -55,8 +56,13 @@ ggplot(data = case_data) +
   scale_y_continuous("Daily SARS-CoV-2 Infections in Hong Kong (N)", expand = c(0,0), limits = c(0,50)) +
   scale_fill_grey(start = 0.9, end = 0.6)
 
+<<<<<<< HEAD
+#####Extended Data Figure 5
+#Figure 5A
+=======
 #####Extended Data Figure 3
 #Figure 3A
+>>>>>>> parent of 64c2060... remove non-published supplementary figures
 ggplot(data=age_transmission_pairs) +
   geom_bar(aes(x = agegroup, fill = transmission), color = "black", position = position_dodge2(preserve = "single")) +
   theme_classic() +
@@ -67,7 +73,11 @@ ggplot(data=age_transmission_pairs) +
   theme(aspect.ratio = 1, legend.position = c(0.95, 0.95), legend.title = element_blank(), axis.text.x = element_text(angle = 90)) +
   scale_fill_grey()
 
+<<<<<<< HEAD
+#Figure 5B (missing age for 1 case responsible for 11 secondary cases)
+=======
 #Figure 3B (missing age for 1 case responsible for 11 secondary cases)
+>>>>>>> parent of 64c2060... remove non-published supplementary figures
 ggplot(data = transmission_pairs) +
   geom_count(aes(x = agegroup.infector, y = agegroup.infectee), colour = "black", alpha = 0.4) +
   geom_smooth(method = lm, aes(x=agegroup.infector, y=agegroup.infectee), se = T, size = 0.5, colour = "black", alpha = 0.2) +
@@ -79,13 +89,20 @@ ggplot(data = transmission_pairs) +
   theme(aspect.ratio = 1, axis.text.x = element_text(angle = 90), legend.position = "none")
 
 
+<<<<<<< HEAD
+#Significance tests for Figure 5A and 5B
+=======
 #Significance tests for Figure 3A and 3B
+>>>>>>> parent of 64c2060... remove non-published supplementary figures
 age_transmission_pairs %>%
   mutate(transmission = as_factor(transmission)) %>%
   t.test(age ~ transmission, data = .)
 
 summary(lm(agegroup.infector ~ agegroup.infectee, data = transmission_pairs))
+<<<<<<< HEAD
+=======
 
+>>>>>>> parent of 64c2060... remove non-published supplementary figures
 chisq_test(x = sex_transmission_pairs$male, y = sex_transmission_pairs$transmission)
 
 ###Extended Data figure 4 and supplementary table 4 (wave 1 wave 2)
@@ -230,10 +247,37 @@ transmission_pairs %>%
   scale_y_continuous("Secondary Cases / Day", expand = c(0,0), limits = c(0,20)) +
   theme_classic() +
   theme(aspect.ratio = 0.3, axis.text.x = element_text(angle = 45, hjust = 1))
+<<<<<<< HEAD
+
+
+
+
+####EXTENDED DATA FIGURE 4 
+#fit normal distribution to serial intervals
+nfit <- transmission_pairs %>%
+  filter(onset.diff != 'NA') %>%
+  pull(onset.diff) %>%
+  fitdist(data = ., distr = 'norm')
+
 
 
 ####SUPPLEMENTARY FIGURE 6 & SUPPLEMENTARY TABLE 3 & 5
 ###Supplementary Figure 6A and Table 3
+
+
+
+####SUPPLEMENTARY FIGURE 6 & SUPPLEMENTARY TABLE 3 & 5
+###Supplementary Figure 6A and Table 3
+
+####SUPPLEMENTARY FIGURE 6 & SUPPLEMENTARY TABLE 3 & 5
+###Supplementary Figure 6A and Table 3
+
+=======
+
+
+####SUPPLEMENTARY FIGURE 6 & SUPPLEMENTARY TABLE 3 & 5
+###Supplementary Figure 6A and Table 3
+>>>>>>> parent of 64c2060... remove non-published supplementary figures
 #fit lognormal distribution by maximum likeihood
 lgfit <- transmission_pairs %>%
   filter(onset.diff != 'NA', 
@@ -255,15 +299,31 @@ wfit <- transmission_pairs %>%
   pull(onset.diff) %>%
   fitdist(data = ., distr = 'weibull')
 
+summary(nfit)
 summary(lgfit)
 summary(gfit)
 summary(wfit)
 
 #bootstrapped analysis
+
+nfit_boot <- summary(bootdist(nfit))
 gfit_boot <- summary(bootdist(gfit))
 wfit_boot <- summary(bootdist(wfit))
 lgfit_boot <- summary(bootdist(lgfit))
 
+<<<<<<< HEAD
+
+
+
+#Extended Data Figure 4A
+#Plot serial interval with normal distribution (Figure 2A)
+ggplot(data = transmission_pairs) +
+  geom_histogram(aes(x = onset.diff, y = ..density..), fill = '#dedede', colour = "black", binwidth = 1) + 
+  stat_function(fun = dnorm, args = list(mean = nfit$estimate[[1]], sd = nfit$estimate[[2]]), size = 0.8, linetype = 2) +
+  scale_x_continuous("Serial Interval (Days)", limits = c(-10,30), breaks = seq(-10, 30, by =5), expand = c(0,0)) +
+
+=======
+>>>>>>> parent of 64c2060... remove non-published supplementary figures
 #Supplementary Figure 6A
 transmission_pairs %>%
   filter(!is.na(onset.diff)) %>%
@@ -273,6 +333,7 @@ transmission_pairs %>%
   stat_function(fun = dweibull, args = list(shape = wfit$estimate[[1]], scale = wfit$estimate[[2]]), size = 0.8, linetype = 2) +
   stat_function(fun = dlnorm, args = list(meanlog = lgfit$estimate[[1]], sdlog = lgfit$estimate[[2]]), size = 0.8, linetype = 3) +
   scale_x_continuous("Serial Interval (Days)") +
+
   scale_y_continuous("Proportion", expand = c(0,0), limits = c(0,0.20)) +
   theme_classic() +
   theme(aspect.ratio = 1)
@@ -312,7 +373,6 @@ nterminal_infectees <- infectee %>%
 complete_offspringd <- enframe(c(offspring$n, rep(0,nterminal_infectees)))
 
 #fit  distriubtions by maximum likelihood
-
 nbfit <- complete_offspringd %>%
   pull(value) %>%
   fitdist(., distr = 'nbinom')
@@ -336,17 +396,35 @@ pfit_boot <- summary(bootdist(pfit))
 
 #Figure 6B
 ggplot() +
-  geom_histogram(aes(x=complete_offspringd$value, y = ..density..), fill = "#dedede", colour = "black", binwidth = 1) +
-  geom_point(aes(x = 0:11, y = dgeom(x = 0:11, prob = gefit$estimate[[1]])), color = 'black', size = 2, shape = 'triangle') +
-  stat_smooth(aes(x = 0:11, y = dgeom(x = 0:11, prob = gefit$estimate[[1]])), method = 'lm', formula = y ~ poly(x, 9), se = FALSE, colour = 'black', size =0.8) +
-  geom_point(aes(x = 0:11, y = dpois(x = 0:11, lambda = pfit$estimate[[1]])), color = 'black', size = 2, shape = 'square') +
-  stat_smooth(aes(x = 0:11, y = dpois(x = 0:11, lambda = pfit$estimate[[1]])), method = 'lm', formula = y ~ poly(x, 9), se = FALSE, colour = 'black', size = 0.8, linetype = 3) +
+  geom_histogram(aes(x=complete_offspringd$value, y = ..density..), fill = "#dedede", colour = "Black", binwidth = 1) +
+  geom_point(aes(x = 0:11, y = dnbinom(x = 0:11, size = nbfit$estimate[[1]], mu = nbfit$estimate[[2]])), size = 1.5) +
+  stat_smooth(aes(x = 0:11, y = dnbinom(x = 0:11, size = nbfit$estimate[[1]], mu = nbfit$estimate[[2]])), method = 'lm', formula = y ~ poly(x, 9), se = FALSE, size = 0.5, colour = 'black') +
   expand_limits(x = 0, y = 0) +
-  scale_x_continuous("Secondary Cases / Infector", expand = c(0, 0), breaks = 0:11)  +
-  scale_y_continuous("Density", limits = c(0,0.7), expand = c(0, 0)) +
+  scale_x_continuous("Secondary cases per infector", expand = c(0, 0), breaks = 0:11)  +
+  scale_y_continuous("Proportion", limits = c(0,0.7), expand = c(0, 0)) +
   theme_classic() +
   theme(aspect.ratio = 1)
 
+<<<<<<< HEAD
+
+
+
+#calculation of proportion of cases who do not spread to anyone from nbfit and nbfit_boot
+dnbinom(0, size = 0.4258355, mu = 0.5828315)
+dnbinom(0, size = 0.2869252, mu = 0.6694716)
+dnbinom(0, size = 0.4520273, mu = 0.7176502)
+
+#####Extended Data Figure 5
+#Figure 5A
+ggplot(data=age_transmission_pairs) +
+  geom_bar(aes(x = agegroup, fill = transmission), color = "black", position = position_dodge2(preserve = "single")) +
+
+
+
+
+
+=======
+>>>>>>> parent of 64c2060... remove non-published supplementary figures
 ####Supplementary Figure 7 (dependant on negative binomial analysis above)
 
 #Plot joint estiamte of R and k (Figure 7A)
@@ -354,6 +432,16 @@ nbfit_boot$estim %>%
   as_tibble() %>%
   ggplot() +  
   geom_point(aes(x = size, y = mu), shape = 21, size = 2, alpha = 0.8) +
+<<<<<<< HEAD
+
+
+
+
+
+
+
+=======
+>>>>>>> parent of 64c2060... remove non-published supplementary figures
   theme_classic() +
   theme(aspect.ratio = 1) +
   scale_x_continuous(expression(paste(italic("k"))), expand = c(0,0),limits = c(0,1.2), breaks = seq(0,1.2, by = 0.3)) +
@@ -441,6 +529,17 @@ nbfit_boot_w2$estim %>%
   scale_x_continuous(expression(paste(italic("k"))), expand = c(0,0),limits = c(0,2.4), breaks = seq(0,2.4, by = 0.4)) +
   scale_y_continuous("Sampling distribution", expand = c(0,0), limits = c(0,400))
 
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
 
 ###Extended Data Figure 9
 
@@ -490,6 +589,57 @@ bar_data %>%
         axis.text.x = element_text(angle = 45, hjust = 1 )) +
   scale_fill_viridis_d()
 
+=======
+
+###Extended Data Figure 9
+
+##Figure 9A
+bar_data %>%
+  mutate(cluster.generation = as.ordered(cluster.generation)) %>%
+  ggplot() +
+  geom_bar(aes(x = epi.date, fill = cluster.generation), width = 0.9) +
+  scale_x_date(name = "Onset Date",
+               date_breaks = "2 days", 
+               date_labels = "%d %b", 
+               minor_breaks = NULL) +
+  scale_y_continuous("Case Count", expand = c(0,0), breaks = seq(0,16, by = 2), limits = c(0,16)) +
+  theme_classic() +
+  theme(aspect.ratio = 0.3, 
+        legend.position = 'none', 
+        axis.text.x = element_text(angle = 45, hjust = 1 )) +
+  scale_fill_viridis_d()
+
+#Figure 9B
+bar_data %>%
+  ggplot() +
+  geom_bar(aes(x = age.group, fill = cluster.generation)) +
+  scale_x_continuous(name = "Age Group", expand = c(0,0), breaks = 1:18,
+                     labels = c("0-4",
+                                "5-9",
+                                "10-14",
+                                "15-19",
+                                "20-24",
+                                "25-29",
+                                "30-34",
+                                "35-39",
+                                "40-44",
+                                "45-49",
+                                "50-54",
+                                "55-59",
+                                "60-64",
+                                "65-69",
+                                "70-74",
+                                "75-79",
+                                "80-84",
+                                "85+")) +
+  scale_y_continuous("Case Count", expand = c(0,0), breaks = seq(0,25, by = 5), limits = c(0,25)) +
+  theme_classic() +
+  theme(aspect.ratio = 0.3, 
+        legend.position = 'none', 
+        axis.text.x = element_text(angle = 45, hjust = 1 )) +
+  scale_fill_viridis_d()
+
+>>>>>>> parent of 64c2060... remove non-published supplementary figures
 #Figure 9C (additional editing for production done in post)
 bar_data %>%
   mutate(cluster.generation = as.ordered(cluster.generation)) %>%
