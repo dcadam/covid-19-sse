@@ -2,6 +2,7 @@ library(tidyverse)
 library(lubridate)
 library(fitdistrplus)
 library(viridis)
+library(rstatix)
 
 #import data
 case_data <- read_csv(file = "data/case_data.csv")
@@ -55,8 +56,8 @@ ggplot(data = case_data) +
   scale_y_continuous("Daily SARS-CoV-2 Infections in Hong Kong (N)", expand = c(0,0), limits = c(0,50)) +
   scale_fill_grey(start = 0.9, end = 0.6)
 
-#####Extended Data Figure 3
-#Figure 3A
+#####Extended Data Figure 5
+#Figure 5A
 ggplot(data=age_transmission_pairs) +
   geom_bar(aes(x = agegroup, fill = transmission), color = "black", position = position_dodge2(preserve = "single")) +
   theme_classic() +
@@ -67,7 +68,7 @@ ggplot(data=age_transmission_pairs) +
   theme(aspect.ratio = 1, legend.position = c(0.95, 0.95), legend.title = element_blank(), axis.text.x = element_text(angle = 90)) +
   scale_fill_grey()
 
-#Figure 3B (missing age for 1 case responsible for 11 secondary cases)
+#Figure 5B (missing age for 1 case responsible for 11 secondary cases)
 ggplot(data = transmission_pairs) +
   geom_count(aes(x = agegroup.infector, y = agegroup.infectee), colour = "black", alpha = 0.4) +
   geom_smooth(method = lm, aes(x=agegroup.infector, y=agegroup.infectee), se = T, size = 0.5, colour = "black", alpha = 0.2) +
@@ -79,13 +80,12 @@ ggplot(data = transmission_pairs) +
   theme(aspect.ratio = 1, axis.text.x = element_text(angle = 90), legend.position = "none")
 
 
-#Significance tests for Figure 3A and 3B
+#Significance tests for Figure 5A and 5B
 age_transmission_pairs %>%
   mutate(transmission = as_factor(transmission)) %>%
   t.test(age ~ transmission, data = .)
 
 summary(lm(agegroup.infector ~ agegroup.infectee, data = transmission_pairs))
-
 chisq_test(x = sex_transmission_pairs$male, y = sex_transmission_pairs$transmission)
 
 ###Extended Data figure 4 and supplementary table 4 (wave 1 wave 2)
@@ -231,8 +231,9 @@ transmission_pairs %>%
   theme_classic() +
   theme(aspect.ratio = 0.3, axis.text.x = element_text(angle = 45, hjust = 1))
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
+
 ####EXTENDED DATA FIGURE 4 
 #fit normal distribution to serial intervals
 nfit <- transmission_pairs %>%
@@ -240,16 +241,19 @@ nfit <- transmission_pairs %>%
   pull(onset.diff) %>%
   fitdist(data = ., distr = 'norm')
 
-=======
+
 
 ####SUPPLEMENTARY FIGURE 6 & SUPPLEMENTARY TABLE 3 & 5
 ###Supplementary Figure 6A and Table 3
->>>>>>> parent of 64c2060... remove non-published supplementary figures
-=======
+
+
 
 ####SUPPLEMENTARY FIGURE 6 & SUPPLEMENTARY TABLE 3 & 5
 ###Supplementary Figure 6A and Table 3
->>>>>>> parent of 64c2060... remove non-published supplementary figures
+
+####SUPPLEMENTARY FIGURE 6 & SUPPLEMENTARY TABLE 3 & 5
+###Supplementary Figure 6A and Table 3
+
 #fit lognormal distribution by maximum likeihood
 lgfit <- transmission_pairs %>%
   filter(onset.diff != 'NA', 
@@ -283,17 +287,16 @@ gfit_boot <- summary(bootdist(gfit))
 wfit_boot <- summary(bootdist(wfit))
 lgfit_boot <- summary(bootdist(lgfit))
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
+
 #Extended Data Figure 4A
 #Plot serial interval with normal distribution (Figure 2A)
 ggplot(data = transmission_pairs) +
   geom_histogram(aes(x = onset.diff, y = ..density..), fill = '#dedede', colour = "black", binwidth = 1) + 
   stat_function(fun = dnorm, args = list(mean = nfit$estimate[[1]], sd = nfit$estimate[[2]]), size = 0.8, linetype = 2) +
   scale_x_continuous("Serial Interval (Days)", limits = c(-10,30), breaks = seq(-10, 30, by =5), expand = c(0,0)) +
-=======
-=======
->>>>>>> parent of 64c2060... remove non-published supplementary figures
+
 #Supplementary Figure 6A
 transmission_pairs %>%
   filter(!is.na(onset.diff)) %>%
@@ -303,7 +306,7 @@ transmission_pairs %>%
   stat_function(fun = dweibull, args = list(shape = wfit$estimate[[1]], scale = wfit$estimate[[2]]), size = 0.8, linetype = 2) +
   stat_function(fun = dlnorm, args = list(meanlog = lgfit$estimate[[1]], sdlog = lgfit$estimate[[2]]), size = 0.8, linetype = 3) +
   scale_x_continuous("Serial Interval (Days)") +
->>>>>>> parent of 64c2060... remove non-published supplementary figures
+
   scale_y_continuous("Proportion", expand = c(0,0), limits = c(0,0.20)) +
   theme_classic() +
   theme(aspect.ratio = 1)
@@ -375,8 +378,9 @@ ggplot() +
   theme_classic() +
   theme(aspect.ratio = 1)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
+
 #calculation of proportion of cases who do not spread to anyone from nbfit and nbfit_boot
 dnbinom(0, size = 0.4258355, mu = 0.5828315)
 dnbinom(0, size = 0.2869252, mu = 0.6694716)
@@ -386,9 +390,11 @@ dnbinom(0, size = 0.4520273, mu = 0.7176502)
 #Figure 5A
 ggplot(data=age_transmission_pairs) +
   geom_bar(aes(x = agegroup, fill = transmission), color = "black", position = position_dodge2(preserve = "single")) +
-=======
-=======
->>>>>>> parent of 64c2060... remove non-published supplementary figures
+
+
+
+
+
 ####Supplementary Figure 7 (dependant on negative binomial analysis above)
 
 #Plot joint estiamte of R and k (Figure 7A)
@@ -396,10 +402,13 @@ nbfit_boot$estim %>%
   as_tibble() %>%
   ggplot() +  
   geom_point(aes(x = size, y = mu), shape = 21, size = 2, alpha = 0.8) +
-<<<<<<< HEAD
->>>>>>> parent of 64c2060... remove non-published supplementary figures
-=======
->>>>>>> parent of 64c2060... remove non-published supplementary figures
+
+
+
+
+
+
+
   theme_classic() +
   theme(aspect.ratio = 1) +
   scale_x_continuous(expression(paste(italic("k"))), expand = c(0,0),limits = c(0,1.2), breaks = seq(0,1.2, by = 0.3)) +
@@ -486,13 +495,18 @@ nbfit_boot_w2$estim %>%
   theme(aspect.ratio = 1) +
   scale_x_continuous(expression(paste(italic("k"))), expand = c(0,0),limits = c(0,2.4), breaks = seq(0,2.4, by = 0.4)) +
   scale_y_continuous("Sampling distribution", expand = c(0,0), limits = c(0,400))
-<<<<<<< HEAD
 
 
-=======
 
 
->>>>>>> parent of 64c2060... remove non-published supplementary figures
+
+
+
+
+
+
+
+
 ###Extended Data Figure 9
 
 ##Figure 9A
